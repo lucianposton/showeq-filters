@@ -17,6 +17,7 @@
         <oldfilter><regex>Name:Cazel</regex></oldfilter>
         <oldfilter><regex>Name:Hatar</regex></oldfilter>
         <oldfilter><regex>Name:Lockjaw</regex></oldfilter>
+        <oldfilter><regex>Name:Barrel Barge</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

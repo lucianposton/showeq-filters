@@ -21,7 +21,7 @@
         <oldfilter><regex>Name:Goblin JailMaster</regex></oldfilter>
         <oldfilter><regex>Name:Goblin Patriarch</regex></oldfilter>
         <oldfilter><regex>Name:Goblin Preacher</regex></oldfilter>
-        <oldfilter><regex>Name:Goblin Scryer</regex></oldfilter>
+        <oldfilter><regex>Name:.*goblin scryer</regex></oldfilter>
         <oldfilter><regex>Name:Goblin Warlord</regex></oldfilter>
         <oldfilter><regex>Name:High Priest Zaharn</regex></oldfilter>
         <oldfilter><regex>Name:Ice Giant Diplomat</regex></oldfilter>

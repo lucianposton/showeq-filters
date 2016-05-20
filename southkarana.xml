@@ -3,9 +3,6 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
-        <oldfilter><regex>Name:escaped Splitpaw gnoll</regex></oldfilter>
-        <oldfilter><regex>Name:undead cyclops</regex></oldfilter>
-        <oldfilter><regex>Name:bull elephant</regex></oldfilter>
     </section>
     <section name="Caution">
     </section>
@@ -14,15 +11,17 @@
     <section name="Locate">
         <oldfilter><regex>Name:Quillmane</regex></oldfilter>
         <oldfilter><regex>Name:Grizzleknot</regex></oldfilter>
-        <oldfilter><regex>Name:an escaped Splitpaw gnoll</regex></oldfilter>
-        <oldfilter><regex>Name:an undead cyclops</regex></oldfilter>
+        <oldfilter><regex>Name:Coloth Meadowgreen</regex></oldfilter>
+        <oldfilter><regex>Name:Kroldir Thunderhoof</regex></oldfilter>
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:#Brother Qwinn</regex></oldfilter>
-        <oldfilter><regex>Name:#High Shaman Grisok</regex></oldfilter>
-        <oldfilter><regex>Name:#Sentry Alechin</regex></oldfilter>
-        <oldfilter><regex>Name:#Shaman Lenrel</regex></oldfilter>
-        <oldfilter><regex>Name:#Shaman Ren`Rex</regex></oldfilter>
+        <oldfilter><regex>Name:escaped Splitpaw gnoll</regex></oldfilter>
+        <oldfilter><regex>Name:Narra Tanith</regex></oldfilter>
+        <oldfilter><regex>Name:Brother Qwinn</regex></oldfilter>
+        <oldfilter><regex>Name:High Shaman Grisok</regex></oldfilter>
+        <oldfilter><regex>Name:Sentry Alechin</regex></oldfilter>
+        <oldfilter><regex>Name:Shaman Lenrel</regex></oldfilter>
+        <oldfilter><regex>Name:Shaman Ren`Rex</regex></oldfilter>
         <oldfilter><regex>Name:Cracktusk</regex></oldfilter>
         <oldfilter><regex>Name:Ghanex Drah</regex></oldfilter>
         <oldfilter><regex>Name:Gnashmaw</regex></oldfilter>
@@ -30,11 +29,13 @@
         <oldfilter><regex>Name:Grgaraxx</regex></oldfilter>
         <oldfilter><regex>Name:Grimrot</regex></oldfilter>
         <oldfilter><regex>Name:Grizzleknot</regex></oldfilter>
+        <oldfilter><regex>Name:Groi Gutblade</regex></oldfilter>
         <oldfilter><regex>Name:Mroon</regex></oldfilter>
         <oldfilter><regex>Name:Quillmane</regex></oldfilter>
         <oldfilter><regex>Name:Shaman Lenrel</regex></oldfilter>
-        <oldfilter><regex>Name:escaped Splitpaw gnoll</regex></oldfilter>
         <oldfilter><regex>Name:undead cyclops</regex></oldfilter>
+        <oldfilter><regex>Name:Coloth Meadowgreen</regex></oldfilter>
+        <oldfilter><regex>Name:Kroldir Thunderhoof</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

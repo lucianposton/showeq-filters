@@ -11,11 +11,11 @@
     <section name="Locate">
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:#Lord Kizaul</regex></oldfilter>
-        <oldfilter><regex>Name:#Lord_Rak`Ashiir</regex></oldfilter>
-        <oldfilter><regex>Name:#Tzirathk</regex></oldfilter>
-        <oldfilter><regex>Name:#a mist reaver</regex></oldfilter>
-        <oldfilter><regex>Name:#a shadowed invoker</regex></oldfilter>
+        <oldfilter><regex>Name:Lord Kizaul</regex></oldfilter>
+        <oldfilter><regex>Name:Lord_Rak`Ashiir</regex></oldfilter>
+        <oldfilter><regex>Name:Tzirathk</regex></oldfilter>
+        <oldfilter><regex>Name:mist reaver</regex></oldfilter>
+        <oldfilter><regex>Name:shadowed invoker</regex></oldfilter>
         <oldfilter><regex>Name:A Human Skeleton</regex></oldfilter>
         <oldfilter><regex>Name:Army Behemoth</regex></oldfilter>
         <oldfilter><regex>Name:Black Reaver</regex></oldfilter>
@@ -23,7 +23,7 @@
         <oldfilter><regex>Name:Lhranc</regex></oldfilter>
         <oldfilter><regex>Name:Lord Ghiosk</regex></oldfilter>
         <oldfilter><regex>Name:Mardon</regex></oldfilter>
-        <oldfilter><regex>Name:Neh'Ashiir</regex></oldfilter>
+        <oldfilter><regex>Name:Neh`Ashiir</regex></oldfilter>
         <oldfilter><regex>Name:Wraith of Jaxion</regex></oldfilter>
     </section>
     <section name="Filtered">

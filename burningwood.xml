@@ -10,6 +10,8 @@
         <oldfilter><regex>Name:Phurzikon</regex></oldfilter>
     </section>
     <section name="Caution">
+        <oldfilter><regex>Name:sarnak extremist</regex></oldfilter>
+        <oldfilter><regex>Name:sarnak zealot</regex></oldfilter>
     </section>
     <section name="Danger">
         <oldfilter><regex>Name:Gullerback</regex></oldfilter>

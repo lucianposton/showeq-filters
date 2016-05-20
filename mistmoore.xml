@@ -11,16 +11,23 @@
     <section name="Locate">
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:Heyda Fadesong</regex></oldfilter>
-        <oldfilter><regex>Name:Steward Messenger</regex></oldfilter>
-        <oldfilter><regex>Name:High Scion Bligne</regex></oldfilter>
-        <oldfilter><regex>Name:Ravaging Nightstalker</regex></oldfilter>
-        <oldfilter><regex>Name:Bloodguard Bonebender</regex></oldfilter>
-        <oldfilter><regex>Name:Bloodwing</regex></oldfilter>
-        <oldfilter><regex>Name:Tyrian the Tormented</regex></oldfilter>
-        <oldfilter><regex>Name:Trueborn Lord Rygrim</regex></oldfilter>
-        <oldfilter><regex>Name:Bloodguard Advisor Lemmil</regex></oldfilter>
-        <oldfilter><regex>Name:Hinian</regex></oldfilter>
+        <oldfilter><regex>Name:Mynthi Davissi</regex></oldfilter>
+        <oldfilter><regex>Name:avenging caitiff</regex></oldfilter>
+        <oldfilter><regex>Name:Black Dire</regex></oldfilter>
+        <oldfilter><regex>Name:Butler Syncall</regex></oldfilter>
+        <oldfilter><regex>Name:cloaked dhampyre</regex></oldfilter>
+        <oldfilter><regex>Name:Enynti</regex></oldfilter>
+        <oldfilter><regex>Name:Garton Viswin</regex></oldfilter>
+        <oldfilter><regex>Name:glyphed ghoul</regex></oldfilter>
+        <oldfilter><regex>Name:Lasna Cheroon</regex></oldfilter>
+        <oldfilter><regex>Name:Maid Issis</regex></oldfilter>
+        <oldfilter><regex>Name:Princess Cherista</regex></oldfilter>
+        <oldfilter><regex>Name:Ssynthi</regex></oldfilter>
+        <oldfilter><regex>Name:Xicotl</regex></oldfilter>
+        <oldfilter><regex>Name:werewolf</regex></oldfilter>
+        <oldfilter><regex>Name:gypsy musician</regex></oldfilter>
+        <oldfilter><regex>Name:advisor</regex></oldfilter>
+        <oldfilter><regex>Name:glyphed aegis</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

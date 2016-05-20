@@ -3,9 +3,9 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
-        <oldfilter><regex>Name:an odd mole</regex></oldfilter>
+        <oldfilter><regex>Name:odd mole</regex></oldfilter>
         <oldfilter><regex>Name:fingered skeleton</regex></oldfilter>
-        <oldfilter><regex>Name:a skeleton cook</regex></oldfilter>
+        <oldfilter><regex>Name:skeleton cook</regex></oldfilter>
     </section>
     <section name="Caution">
     </section>
@@ -14,14 +14,14 @@
     <section name="Locate">
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:an odd mole</regex></oldfilter>
+        <oldfilter><regex>Name:odd mole</regex></oldfilter>
         <oldfilter><regex>Name:Bargynn</regex></oldfilter>
         <oldfilter><regex>Name:Burynai Forager</regex></oldfilter>
         <oldfilter><regex>Name:Thick Boned Skeleton</regex></oldfilter>
         <oldfilter><regex>Name:Undead Crusader</regex></oldfilter>
         <oldfilter><regex>Name:Undead Jester</regex></oldfilter>
         <oldfilter><regex>Name:fingered skeleton</regex></oldfilter>
-        <oldfilter><regex>Name:a skeleton cook</regex></oldfilter>
+        <oldfilter><regex>Name:skeleton cook</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

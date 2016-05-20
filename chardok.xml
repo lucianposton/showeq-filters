@@ -6,6 +6,7 @@
         <oldfilter><regex>Name:Ancient Guardian:</regex></oldfilter>
     </section>
     <section name="Caution">
+        <oldfilter><regex>Name:Sarnak Aruspice</regex></oldfilter>
     </section>
     <section name="Danger">
     </section>
@@ -31,7 +32,6 @@
         <oldfilter><regex>Name:Overking Bathezid</regex></oldfilter>
         <oldfilter><regex>Name:Prince Selrach Di`zok</regex></oldfilter>
         <oldfilter><regex>Name:Queen Velazul Di`zok</regex></oldfilter>
-        <oldfilter><regex>Name:Sarnak Aruspice</regex></oldfilter>
         <oldfilter><regex>Name:The Bridge Keeper</regex></oldfilter>
         <oldfilter><regex>Name:Vault Master Shu`zo</regex></oldfilter>
         <oldfilter><regex>Name:Watch Captain Hir`roul</regex></oldfilter>

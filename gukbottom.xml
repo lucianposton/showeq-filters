@@ -3,9 +3,9 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
-        <oldfilter><regex>Name:a frenzied ghoul</regex></oldfilter>
-        <oldfilter><regex>Name:a ghoul assassin</regex></oldfilter>
-        <oldfilter><regex>Name:a ghoul supplier</regex></oldfilter>
+        <oldfilter><regex>Name:frenzied ghoul</regex></oldfilter>
+        <oldfilter><regex>Name:ghoul assassin</regex></oldfilter>
+        <oldfilter><regex>Name:ghoul supplier</regex></oldfilter>
     </section>
     <section name="Caution">
     </section>
@@ -16,37 +16,30 @@
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:Froglok Priest</regex></oldfilter>
+        <oldfilter><regex>Name:yun priest</regex></oldfilter>
         <oldfilter><regex>Name:Raster of Guk</regex></oldfilter>
         <oldfilter><regex>Name:Slaythe the Slayer</regex></oldfilter>
-        <oldfilter><regex>Name:a basalt gargoyle</regex></oldfilter>
-        <oldfilter><regex>Name:a bloodthirsty ghoul</regex></oldfilter>
-        <oldfilter><regex>Name:a clay gargoyle</regex></oldfilter>
-        <oldfilter><regex>Name:a deadly black widow</regex></oldfilter>
-        <oldfilter><regex>Name:a frenzied ghoul</regex></oldfilter>
-        <oldfilter><regex>Name:a froglok crusader</regex></oldfilter>
-        <oldfilter><regex>Name:a froglok herbalist</regex></oldfilter>
+        <oldfilter><regex>Name:frenzied ghoul</regex></oldfilter>
+        <oldfilter><regex>Name:froglok crusader</regex></oldfilter>
+        <oldfilter><regex>Name:froglok herbalist</regex></oldfilter>
         <oldfilter><regex>Name:a froglok noble</regex></oldfilter>
-        <oldfilter><regex>Name:a froglok slave</regex></oldfilter>
-        <oldfilter><regex>Name:a froglok tactician</regex></oldfilter>
-        <oldfilter><regex>Name:a ghoul assassin</regex></oldfilter>
-        <oldfilter><regex>Name:a ghoul cavalier</regex></oldfilter>
-        <oldfilter><regex>Name:a ghoul executioner</regex></oldfilter>
-        <oldfilter><regex>Name:a ghoul ritualist</regex></oldfilter>
-        <oldfilter><regex>Name:a ghoul sage</regex></oldfilter>
-        <oldfilter><regex>Name:a ghoul savant</regex></oldfilter>
-        <oldfilter><regex>Name:a ghoul scribe</regex></oldfilter>
-        <oldfilter><regex>Name:a ghoul sentinel</regex></oldfilter>
-        <oldfilter><regex>Name:a ghoul supplier</regex></oldfilter>
-        <oldfilter><regex>Name:a huge water elemental</regex></oldfilter>
-        <oldfilter><regex>Name:a minotaur elder</regex></oldfilter>
-        <oldfilter><regex>Name:a minotaur patriarch</regex></oldfilter>
-        <oldfilter><regex>Name:a nok ghoul wizard</regex></oldfilter>
-        <oldfilter><regex>Name:a reanimated hand</regex></oldfilter>
-        <oldfilter><regex>Name:a vampire bat</regex></oldfilter>
-        <oldfilter><regex>Name:an evil eye</regex></oldfilter>
-        <oldfilter><regex>Name:the froglok king</regex></oldfilter>
-        <oldfilter><regex>Name:the ghoul arch magus</regex></oldfilter>
-        <oldfilter><regex>Name:the ghoul lord</regex></oldfilter>
+        <oldfilter><regex>Name:froglok tactician</regex></oldfilter>
+        <oldfilter><regex>Name:ghoul assassin</regex></oldfilter>
+        <oldfilter><regex>Name:ghoul cavalier</regex></oldfilter>
+        <oldfilter><regex>Name:ghoul executioner</regex></oldfilter>
+        <oldfilter><regex>Name:ghoul ritualist</regex></oldfilter>
+        <oldfilter><regex>Name:ghoul sage</regex></oldfilter>
+        <oldfilter><regex>Name:ghoul savant</regex></oldfilter>
+        <oldfilter><regex>Name:ghoul scribe</regex></oldfilter>
+        <oldfilter><regex>Name:ghoul sentinel</regex></oldfilter>
+        <oldfilter><regex>Name:ghoul supplier</regex></oldfilter>
+        <oldfilter><regex>Name:minotaur elder</regex></oldfilter>
+        <oldfilter><regex>Name:minotaur patriarch</regex></oldfilter>
+        <oldfilter><regex>Name:reanimated hand</regex></oldfilter>
+        <oldfilter><regex>Name:evil eye</regex></oldfilter>
+        <oldfilter><regex>Name:froglok king</regex></oldfilter>
+        <oldfilter><regex>Name:ghoul arch magus</regex></oldfilter>
+        <oldfilter><regex>Name:ghoul lord</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

@@ -10,6 +10,7 @@
     <section name="Caution">
     </section>
     <section name="Danger">
+        <oldfilter><regex>Name:Dark Assassin</regex></oldfilter>
     </section>
     <section name="Locate">
     </section>

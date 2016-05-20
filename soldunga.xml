@@ -25,9 +25,9 @@
         <oldfilter><regex>Name:Marfen Binkdirple</regex></oldfilter>
         <oldfilter><regex>Name:Model EXG</regex></oldfilter>
         <oldfilter><regex>Name:Reckless Efreeti</regex></oldfilter>
-        <oldfilter><regex>Name:Solusek Goblin Bartender</regex></oldfilter>
-        <oldfilter><regex>Name:Solusek Goblin Drunkard</regex></oldfilter>
-        <oldfilter><regex>Name:Solusek Goblin High Shaman</regex></oldfilter>
+        <oldfilter><regex>Name:Fire Goblin Bartender</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Drunkard</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin High Shaman</regex></oldfilter>
         <oldfilter><regex>Name:Solusek goblin king</regex></oldfilter>
         <oldfilter><regex>Name:Singe</regex></oldfilter>
         <oldfilter><regex>Name:kobold predator</regex></oldfilter>

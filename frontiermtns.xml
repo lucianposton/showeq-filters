@@ -17,24 +17,24 @@
         <oldfilter><regex>Name:Maddened Burynai</regex></oldfilter>
         <oldfilter><regex>Name:Soothsayer Dregzak</regex></oldfilter>
         <oldfilter><regex>Name:Stitcher</regex></oldfilter>
-        <oldfilter><regex>Name:a berserk brute</regex></oldfilter>
-        <oldfilter><regex>Name:a diseased brute</regex></oldfilter>
-        <oldfilter><regex>Name:a goblin chieftan</regex></oldfilter>
-        <oldfilter><regex>Name:a goblin coward</regex></oldfilter>
-        <oldfilter><regex>Name:a goblin headhunter</regex></oldfilter>
-        <oldfilter><regex>Name:a goblin herbcollector</regex></oldfilter>
-        <oldfilter><regex>Name:a goblin prospector</regex></oldfilter>
-        <oldfilter><regex>Name:a goblin raider</regex></oldfilter>
-        <oldfilter><regex>Name:a goblin scavenger</regex></oldfilter>
-        <oldfilter><regex>Name:a goblin trailblazer</regex></oldfilter>
-        <oldfilter><regex>Name:a rabid brute</regex></oldfilter>
-        <oldfilter><regex>Name:a sarnak bloodbinder</regex></oldfilter>
-        <oldfilter><regex>Name:a sarnak courier</regex></oldfilter>
-        <oldfilter><regex>Name:a sarnak mystic</regex></oldfilter>
-        <oldfilter><regex>Name:a sarnak rebel</regex></oldfilter>
-        <oldfilter><regex>Name:a sarnak scavenger</regex></oldfilter>
-        <oldfilter><regex>Name:a sarnak seer</regex></oldfilter>
-        <oldfilter><regex>Name:a sarnak warlord</regex></oldfilter>
+        <oldfilter><regex>Name:berserk brute</regex></oldfilter>
+        <oldfilter><regex>Name:diseased brute</regex></oldfilter>
+        <oldfilter><regex>Name:goblin chieftan</regex></oldfilter>
+        <oldfilter><regex>Name:goblin coward</regex></oldfilter>
+        <oldfilter><regex>Name:goblin headhunter</regex></oldfilter>
+        <oldfilter><regex>Name:goblin herbcollector</regex></oldfilter>
+        <oldfilter><regex>Name:goblin prospector</regex></oldfilter>
+        <oldfilter><regex>Name:goblin raider</regex></oldfilter>
+        <oldfilter><regex>Name:goblin scavenger</regex></oldfilter>
+        <oldfilter><regex>Name:goblin trailblazer</regex></oldfilter>
+        <oldfilter><regex>Name:rabid brute</regex></oldfilter>
+        <oldfilter><regex>Name:sarnak bloodbinder</regex></oldfilter>
+        <oldfilter><regex>Name:sarnak courier</regex></oldfilter>
+        <oldfilter><regex>Name:sarnak mystic</regex></oldfilter>
+        <oldfilter><regex>Name:sarnak rebel</regex></oldfilter>
+        <oldfilter><regex>Name:sarnak scavenger</regex></oldfilter>
+        <oldfilter><regex>Name:sarnak seer</regex></oldfilter>
+        <oldfilter><regex>Name:sarnak warlord</regex></oldfilter>
         <oldfilter><regex>Name:Bloodscale the Vicious</regex></oldfilter>
         <oldfilter><regex>Name:blugtigin</regex></oldfilter>
         <oldfilter><regex>Name:Blugtigin</regex></oldfilter>

@@ -11,15 +11,24 @@
     <section name="Locate">
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:#High Scale Kirn</regex></oldfilter>
-        <oldfilter><regex>Name:#a Stone Caller</regex></oldfilter>
-        <oldfilter><regex>Name:#a ratman guard</regex></oldfilter>
+        <oldfilter><regex>Name:Bejeweled Elemental</regex></oldfilter>
+        <oldfilter><regex>Name:Dartain the Lost</regex></oldfilter>
+        <oldfilter><regex>Name:Gibartik</regex></oldfilter>
+        <oldfilter><regex>Name:Initiate Sirlis</regex></oldfilter>
+        <oldfilter><regex>Name:spirit of the ruins</regex></oldfilter>
+        <oldfilter><regex>Name:spirit of the old city</regex></oldfilter>
+        <oldfilter><regex>Name:Keeper of the Tombs</regex></oldfilter>
+
+        <oldfilter><regex>Name:High Scale Kirn</regex></oldfilter>
+        <oldfilter><regex>Name:Stone Caller</regex></oldfilter>
+        <oldfilter><regex>Name:ratman guard</regex></oldfilter>
         <oldfilter><regex>Name:Caradon</regex></oldfilter>
         <oldfilter><regex>Name:Commander Yarik</regex></oldfilter>
-        <oldfilter><regex>Name:Ghost of Glohnon</regex></oldfilter>
+        <oldfilter><regex>Name:Ghost of Glohno</regex></oldfilter>
         <oldfilter><regex>Name:Ghost of Kindle</regex></oldfilter>
         <oldfilter><regex>Name:Irslak the Wretched</regex></oldfilter>
-        <oldfilter><regex>Name:Kelgar the Mighty</regex></oldfilter>
+        <oldfilter><regex>Name:Jaeil the Wretched</regex></oldfilter>
+        <oldfilter><regex>Name:Kejar the Mighty</regex></oldfilter>
         <oldfilter><regex>Name:Kyrenna</regex></oldfilter>
         <oldfilter><regex>Name:Master Yael</regex></oldfilter>
         <oldfilter><regex>Name:Mummy of Glohnor</regex></oldfilter>
@@ -30,7 +39,7 @@
         <oldfilter><regex>Name:Schnozz the Flighty</regex></oldfilter>
         <oldfilter><regex>Name:Stonegrinder Minion</regex></oldfilter>
         <oldfilter><regex>Name:Stonesoul the Unmoving</regex></oldfilter>
-        <oldfilter><regex>Name:Ulrk the Devout</regex></oldfilter>
+        <oldfilter><regex>Name:Ulrik the Devout</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

@@ -13,8 +13,7 @@
     <section name="Alert">
         <oldfilter><regex>Name:Advisor Sh'Orok</regex></oldfilter>
         <oldfilter><regex>Name:Brother Drash</regex></oldfilter>
-        <oldfilter><regex>Name:Jonah Brucker</regex></oldfilter>
-        <oldfilter><regex>Name:Lord Bergugle</regex></oldfilter>
+        <oldfilter><regex>Name:Lord Bergurgle</regex></oldfilter>
         <oldfilter><regex>Name:Megaladon</regex></oldfilter>
         <oldfilter><regex>Name:Prince Kyrmt Keroppi</regex></oldfilter>
         <oldfilter><regex>Name:Princess Lenya Thex</regex></oldfilter>

@@ -12,6 +12,7 @@
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:#a herald of mischief</regex></oldfilter>
+        <oldfilter><regex>Name:priest of najena</regex></oldfilter>
         <oldfilter><regex>Name:Blade Fiend</regex></oldfilter>
         <oldfilter><regex>Name:Garanel Rucksif</regex></oldfilter>
         <oldfilter><regex>Name:Ghoul Magi</regex></oldfilter>

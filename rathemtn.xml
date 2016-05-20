@@ -11,7 +11,7 @@
     <section name="Locate">
         <oldfilter><regex>Name:Brother Zephyl</regex></oldfilter>
         <oldfilter><regex>Name:Hasten Bootstrutter</regex></oldfilter>
-        <oldfilter><regex>Name:a drake</regex></oldfilter>
+        <oldfilter><regex>Name:drake</regex></oldfilter>
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:Ankhefenmut</regex></oldfilter>
@@ -34,10 +34,10 @@
         <oldfilter><regex>Name:Tarskuk</regex></oldfilter>
         <oldfilter><regex>Name:Tindlegrob</regex></oldfilter>
         <oldfilter><regex>Name:Zazamoukh</regex></oldfilter>
-        <oldfilter><regex>Name:a drake</regex></oldfilter>
+        <oldfilter><regex>Name:drake</regex></oldfilter>
         <oldfilter><regex>Name:corrupted hill giant</regex></oldfilter>
         <oldfilter><regex>Name:lizardman mystic</regex></oldfilter>
-        <oldfilter><regex>Name:tainted hill_giant</regex></oldfilter>
+        <oldfilter><regex>Name:tainted hill giant</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

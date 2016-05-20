@@ -11,6 +11,13 @@
     <section name="Locate">
     </section>
     <section name="Alert">
+        <oldfilter><regex>Name:goblin fanatic</regex></oldfilter>
+        <oldfilter><regex>Name:goblin bodyguard</regex></oldfilter>
+        <oldfilter><regex>Name:goblin canyoneer</regex></oldfilter>
+        <oldfilter><regex>Name:maddened Burynai</regex></oldfilter>
+        <oldfilter><regex>Name:Soothsayer Dregzak</regex></oldfilter>
+        <oldfilter><regex>Name:Chief RokGus</regex></oldfilter>
+<!--
         <oldfilter><regex>Name:Blood Ritualist Taprom</regex></oldfilter>
         <oldfilter><regex>Name:Bone Caller Nathid</regex></oldfilter>
         <oldfilter><regex>Name:Bone Caster Fizzik</regex></oldfilter>
@@ -34,6 +41,7 @@
         <oldfilter><regex>Name:Stone Crook Piklo</regex></oldfilter>
         <oldfilter><regex>Name:Stone Seer Kaigek</regex></oldfilter>
         <oldfilter><regex>Name:Whip Cracker Krazzim</regex></oldfilter>
+-->
     </section>
     <section name="Filtered">
     </section>

@@ -9,7 +9,7 @@
         <oldfilter><regex>Name:a mature chromadrac</regex></oldfilter>
     </section>
     <section name="Danger">
-        <oldfilter><regex>Name:Talendar</regex></oldfilter>
+        <oldfilter><regex>Name:Talendor</regex></oldfilter>
     </section>
     <section name="Locate">
         <oldfilter><regex>Name:Zordakalicus Ragefire</regex></oldfilter>
@@ -21,8 +21,9 @@
         <oldfilter><regex>Name:#a nightfire drake</regex></oldfilter>
         <oldfilter><regex>Name:Eldrig the Old</regex></oldfilter>
         <oldfilter><regex>Name:Felia Goldenwing</regex></oldfilter>
-        <oldfilter><regex>Name:Talendar</regex></oldfilter>
+        <oldfilter><regex>Name:Talendor</regex></oldfilter>
         <oldfilter><regex>Name:Zordakalicus Ragefire</regex></oldfilter>
+        <oldfilter><regex>Name:Black Scar</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

@@ -3,6 +3,18 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
+<!-- -->
+        <oldfilter><regex>Name:goblin brawler</regex></oldfilter>
+        <oldfilter><regex>Name:sabertooth cat</regex></oldfilter>
+        <oldfilter><regex>Name:sabertooth tigress</regex></oldfilter>
+        <oldfilter><regex>Name:greater scalebone</regex></oldfilter>
+        <oldfilter><regex>Name:sarnak youth</regex></oldfilter>
+        <oldfilter><regex>Name:goblin skirmisher</regex></oldfilter>
+        <oldfilter><regex>Name:greater skeleton</regex></oldfilter>
+        <oldfilter><regex>Name:iksar marauder</regex></oldfilter>
+        <oldfilter><regex>Name:Iksar brigand</regex></oldfilter>
+        <oldfilter><regex>Name:sarnak flunkie</regex></oldfilter>
+<!-- -->
     </section>
     <section name="Caution">
     </section>
@@ -11,22 +23,20 @@
     <section name="Locate">
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:#Fullic D`Vinn</regex></oldfilter>
-        <oldfilter><regex>Name:#a lead explorer</regex></oldfilter>
+        <oldfilter><regex>Name:Fullic D`Vinn</regex></oldfilter>
+        <oldfilter><regex>Name:lead explorer</regex></oldfilter>
         <oldfilter><regex>Name:Advisor Sh`Orok</regex></oldfilter>
         <oldfilter><regex>Name:Bloodgill Marauder</regex></oldfilter>
         <oldfilter><regex>Name:Chancellor Di'Zok</regex></oldfilter>
         <oldfilter><regex>Name:Chancellor of Di`zok</regex></oldfilter>
         <oldfilter><regex>Name:Corrupted Barracuda</regex></oldfilter>
         <oldfilter><regex>Name:Lord Gorelik</regex></oldfilter>
-        <oldfilter><regex>Name:Sarnak Courier</regex></oldfilter>
+        <oldfilter><regex>Name:sarnak courier</regex></oldfilter>
         <oldfilter><regex>Name:Tainted Barracuda</regex></oldfilter>
         <oldfilter><regex>Name:Sarnak crypt raider</regex></oldfilter>
-        <oldfilter><regex>Name:Warlord Geot</regex></oldfilter>
-        <oldfilter><regex>Name:a bloodgill marauder</regex></oldfilter>
-        <oldfilter><regex>Name:a sarnak courier</regex></oldfilter>
-        <oldfilter><regex>Name:a stuffed barracuda</regex></oldfilter>
-        <oldfilter><regex>Name:an imperial escort</regex></oldfilter>
+        <oldfilter><regex>Name:bloodgill marauder</regex></oldfilter>
+        <oldfilter><regex>Name:stuffed barracuda</regex></oldfilter>
+        <oldfilter><regex>Name:imperial escort</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

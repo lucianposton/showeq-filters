@@ -3,16 +3,17 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
+        <oldfilter><regex>Name:Skeletal Warlord</regex></oldfilter>
     </section>
     <section name="Caution">
     </section>
     <section name="Danger">
-        <oldfilter><regex>Name:#Venril Sathir</regex></oldfilter>
+        <oldfilter><regex>Name:Venril Sathir</regex></oldfilter>
     </section>
     <section name="Locate">
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:#Venril Sathir</regex></oldfilter>
+        <oldfilter><regex>Name:Venril Sathir</regex></oldfilter>
         <oldfilter><regex>Name:Caller of Sathir</regex></oldfilter>
         <oldfilter><regex>Name:Construct of Sathir</regex></oldfilter>
         <oldfilter><regex>Name:Drolvarg Captain</regex></oldfilter>
@@ -36,8 +37,8 @@
         <oldfilter><regex>Name:Wulfwere Bodyguard</regex></oldfilter>
         <oldfilter><regex>Name:caller of Sathir</regex></oldfilter>
         <oldfilter><regex>Name:undead jailer</regex></oldfilter>
-        <oldfilter><regex>Name:a Drolvarg warlord</regex></oldfilter>
-        <oldfilter><regex>Name:a human skeleton</regex></oldfilter>
+        <oldfilter><regex>Name:Drolvarg warlord</regex></oldfilter>
+        <oldfilter><regex>Name:human skeleton</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

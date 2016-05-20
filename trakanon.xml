@@ -10,10 +10,46 @@
         <oldfilter><regex>Name:Doom</regex></oldfilter>
     </section>
     <section name="Locate">
-        <oldfilter><regex>Name:froglok forager</regex></oldfilter>
-        <oldfilter><regex>Name:froglok funter</regex></oldfilter>
-        <oldfilter><regex>Name:Harbringer Dronik</regex></oldfilter>
+        <oldfilter><regex>Name:#The Night Warder</regex></oldfilter>
+        <oldfilter><regex>Name:#a nightclaw raptor</regex></oldfilter>
+        <oldfilter><regex>Name:Bloodeye</regex></oldfilter>
+        <oldfilter><regex>Name:Champion Arlek</regex></oldfilter>
+        <oldfilter><regex>Name:Champion Thenrin</regex></oldfilter>
+        <oldfilter><regex>Name:Commander Sils</regex></oldfilter>
+        <oldfilter><regex>Name:Crusader Vragor</regex></oldfilter>
+        <oldfilter><regex>Name:Crusader Zoglic</regex></oldfilter>
+        <oldfilter><regex>Name:Doom</regex></oldfilter>
+        <oldfilter><regex>Name:Dragontail</regex></oldfilter>
+        <oldfilter><regex>Name:Dreadlord Fanrik</regex></oldfilter>
+        <oldfilter><regex>Name:Dreadlord Dekir</regex></oldfilter>
+        <oldfilter><regex>Name:Ebon Lotus</regex></oldfilter>
+        <oldfilter><regex>Name:Emperor Ganek</regex></oldfilter>
+        <oldfilter><regex>Name:Ffroaak</regex></oldfilter>
+        <oldfilter><regex>Name:Hangman</regex></oldfilter>
+        <oldfilter><regex>Name:Harbinger Dronik</regex></oldfilter>
+        <oldfilter><regex>Name:Harbinger Josk</regex></oldfilter>
+        <oldfilter><regex>Name:Hierophant Ixyl</regex></oldfilter>
+        <oldfilter><regex>Name:Keeper Lasnik</regex></oldfilter>
+        <oldfilter><regex>Name:Keeper Sepsis</regex></oldfilter>
+        <oldfilter><regex>Name:Klok Denris</regex></oldfilter>
+        <oldfilter><regex>Name:Knight Dragol</regex></oldfilter>
+        <oldfilter><regex>Name:Kremmit</regex></oldfilter>
+        <oldfilter><regex>Name:Sigra</regex></oldfilter>
+        <oldfilter><regex>Name:Silvermane</regex></oldfilter>
+        <oldfilter><regex>Name:Squire Glik</regex></oldfilter>
+        <oldfilter><regex>Name:Stonebeak</regex></oldfilter>
+        <oldfilter><regex>Name:Throkkok</regex></oldfilter>
+        <oldfilter><regex>Name:Thruke</regex></oldfilter>
+        <oldfilter><regex>Name:Titail Sinok</regex></oldfilter>
         <oldfilter><regex>Name:Trakanasaurus Rex</regex></oldfilter>
+        <oldfilter><regex>Name:Vessel Fryn</regex></oldfilter>
+        <oldfilter><regex>Name:Flayhte</regex></oldfilter>
+        <oldfilter><regex>Name:Oracle Froskil</regex></oldfilter>
+        <oldfilter><regex>Name:Partisan Yinlen</regex></oldfilter>
+        <oldfilter><regex>Name:froglok forager</regex></oldfilter>
+        <oldfilter><regex>Name:froglok hunter</regex></oldfilter>
+        <oldfilter><regex>Name:human skeleton</regex></oldfilter>
+        <oldfilter><regex>Name:pained soul</regex></oldfilter>
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:#The Night Warder</regex></oldfilter>
@@ -32,9 +68,11 @@
         <oldfilter><regex>Name:Emperor Ganek</regex></oldfilter>
         <oldfilter><regex>Name:Ffroaak</regex></oldfilter>
         <oldfilter><regex>Name:Hangman</regex></oldfilter>
-        <oldfilter><regex>Name:Harbringer Dronik</regex></oldfilter>
+        <oldfilter><regex>Name:Harbinger Dronik</regex></oldfilter>
         <oldfilter><regex>Name:Harbinger Josk</regex></oldfilter>
+        <oldfilter><regex>Name:Hierophant Ixyl</regex></oldfilter>
         <oldfilter><regex>Name:Keeper Lasnik</regex></oldfilter>
+        <oldfilter><regex>Name:Keeper Sepsis</regex></oldfilter>
         <oldfilter><regex>Name:Klok Denris</regex></oldfilter>
         <oldfilter><regex>Name:Knight Dragol</regex></oldfilter>
         <oldfilter><regex>Name:Kremmit</regex></oldfilter>
@@ -47,9 +85,12 @@
         <oldfilter><regex>Name:Titail Sinok</regex></oldfilter>
         <oldfilter><regex>Name:Trakanasaurus Rex</regex></oldfilter>
         <oldfilter><regex>Name:Vessel Fryn</regex></oldfilter>
+        <oldfilter><regex>Name:Flayhte</regex></oldfilter>
+        <oldfilter><regex>Name:Oracle Froskil</regex></oldfilter>
+        <oldfilter><regex>Name:Partisan Yinlen</regex></oldfilter>
         <oldfilter><regex>Name:froglok forager</regex></oldfilter>
         <oldfilter><regex>Name:froglok hunter</regex></oldfilter>
-        <oldfilter><regex>Name:a human skeleton</regex></oldfilter>
+        <oldfilter><regex>Name:human skeleton</regex></oldfilter>
         <oldfilter><regex>Name:pained soul</regex></oldfilter>
     </section>
     <section name="Filtered">

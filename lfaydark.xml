@@ -13,7 +13,7 @@
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:Crookstinger</regex></oldfilter>
-        <oldfilter><regex>Name:Equestrielle the Corrupted</regex></oldfilter>
+        <oldfilter><regex>Name:Equestrielle</regex></oldfilter>
         <oldfilter><regex>Name:Ghoul Boss</regex></oldfilter>
         <oldfilter><regex>Name:Mina Glimmerwing</regex></oldfilter>
         <oldfilter><regex>Name:Old Dimshimmer</regex></oldfilter>

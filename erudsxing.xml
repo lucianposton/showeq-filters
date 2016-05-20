@@ -18,6 +18,10 @@
         <oldfilter><regex>Name:Necro Bat</regex></oldfilter>
         <oldfilter><regex>Name:Oogla</regex></oldfilter>
         <oldfilter><regex>Name:Plague Shark</regex></oldfilter>
+        <oldfilter><regex>Name:erudite madman</regex></oldfilter>
+        <oldfilter><regex>Name:island madman</regex></oldfilter>
+        <oldfilter><regex>Name:fire elemental</regex></oldfilter>
+        <oldfilter><regex>Name:Golden Maiden</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

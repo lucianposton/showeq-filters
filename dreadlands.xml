@@ -16,11 +16,9 @@
         <oldfilter><regex>Name:Dread Widow</regex></oldfilter>
         <oldfilter><regex>Name:Gorenaire</regex></oldfilter>
         <oldfilter><regex>Name:Treeflayer</regex></oldfilter>
-        <oldfilter><regex>Name:a plaguebone thief</regex></oldfilter>
-        <oldfilter><regex>Name:a stoneleer cockatrice</regex></oldfilter>
-        <oldfilter><regex>Name:a wulfware lonewolf</regex></oldfilter>
+        <oldfilter><regex>Name:plaguebone thief</regex></oldfilter>
         <oldfilter><regex>Name:rotting skeleton</regex></oldfilter>
-        <oldfilter><regex>Name:wraithbone champion</regex></oldfilter>
+        <oldfilter><regex>Name:Brother Balatin</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

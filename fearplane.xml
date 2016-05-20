@@ -13,7 +13,7 @@
         <oldfilter><regex>Name:Dread</regex></oldfilter>
         <oldfilter><regex>Name:Fright</regex></oldfilter>
         <oldfilter><regex>Name:Terror</regex></oldfilter>
-        <oldfilter><regex>Name:a dracoliche</regex></oldfilter>
+        <oldfilter><regex>Name:dracoliche</regex></oldfilter>
     </section>
     <section name="Locate">
     </section>
@@ -25,10 +25,10 @@
         <oldfilter><regex>Name:Irak Altil</regex></oldfilter>
         <oldfilter><regex>Name:Iksar Broodling</regex></oldfilter>
         <oldfilter><regex>Name:Amygdalan Warrior</regex></oldfilter>
-        <oldfilter><regex>Name:.*Cazic Thule.*</regex></oldfilter>
         <oldfilter><regex>Name:Dread</regex></oldfilter>
         <oldfilter><regex>Name:Fright</regex></oldfilter>
         <oldfilter><regex>Name:Terror</regex></oldfilter>
+        <oldfilter><regex>Name:dracoliche</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>
