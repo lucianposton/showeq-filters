@@ -6,10 +6,9 @@
         <oldfilter><regex>Name:Lockjaw</regex></oldfilter>
     </section>
     <section name="Caution">
-        <oldfilter><regex>Name:[^:]giant[^:]:</regex><level min="26" max="28"/></oldfilter>
     </section>
     <section name="Danger">
-        <oldfilter><regex>Name:Cazel</regex></oldfilter>
+        <oldfilter><regex>Race:Giant / Cyclops</regex></oldfilter>
     </section>
     <section name="Locate">
     </section>

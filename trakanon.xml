@@ -10,8 +10,8 @@
         <oldfilter><regex>Name:Doom</regex></oldfilter>
     </section>
     <section name="Locate">
-        <oldfilter><regex>Name:#The Night Warder</regex></oldfilter>
-        <oldfilter><regex>Name:#a nightclaw raptor</regex></oldfilter>
+        <oldfilter><regex>Name:The Night Warder</regex></oldfilter>
+        <oldfilter><regex>Name:nightclaw raptor</regex></oldfilter>
         <oldfilter><regex>Name:Bloodeye</regex></oldfilter>
         <oldfilter><regex>Name:Champion Arlek</regex></oldfilter>
         <oldfilter><regex>Name:Champion Thenrin</regex></oldfilter>
@@ -52,8 +52,8 @@
         <oldfilter><regex>Name:pained soul</regex></oldfilter>
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:#The Night Warder</regex></oldfilter>
-        <oldfilter><regex>Name:#a nightclaw raptor</regex></oldfilter>
+        <oldfilter><regex>Name:The Night Warder</regex></oldfilter>
+        <oldfilter><regex>Name:nightclaw raptor</regex></oldfilter>
         <oldfilter><regex>Name:Bloodeye</regex></oldfilter>
         <oldfilter><regex>Name:Champion Arlek</regex></oldfilter>
         <oldfilter><regex>Name:Champion Thenrin</regex></oldfilter>

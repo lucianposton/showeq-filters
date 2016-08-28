@@ -9,33 +9,8 @@
     <section name="Danger">
     </section>
     <section name="Locate">
-        <oldfilter><regex>Name:Sentient Bile</regex></oldfilter>
-        <oldfilter><regex>Name:Spectre Sepulcher</regex></oldfilter>
-        <oldfilter><regex>Name:Crypt Spectre</regex></oldfilter>
-        <oldfilter><regex>Name:embalming fluid</regex></oldfilter>
-        <oldfilter><regex>Name:Skeleton Sepulcher</regex></oldfilter>
-        <oldfilter><regex>Name:Howling Spectre</regex></oldfilter>
-        <oldfilter><regex>Name:Reanimated Plaguebone</regex></oldfilter>
-        <oldfilter><regex>Name:Drusella Sathir</regex></oldfilter>
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:Sentient Bile</regex></oldfilter>
-        <oldfilter><regex>Name:Crypt Keeper</regex></oldfilter>
-        <oldfilter><regex>Name:Crypt Wurm</regex></oldfilter>
-        <oldfilter><regex>Name:The Golem Master</regex></oldfilter>
-        <oldfilter><regex>Name:Spectre Sepulcher</regex></oldfilter>
-        <oldfilter><regex>Name:Skeletal Procurator</regex></oldfilter>
-        <oldfilter><regex>Name:Crypt Feaster</regex></oldfilter>
-        <oldfilter><regex>Name:Crypt Spectre</regex></oldfilter>
-        <oldfilter><regex>Name:embalming fluid</regex></oldfilter>
-        <oldfilter><regex>Name:Skeleton Sepulcher</regex></oldfilter>
-        <oldfilter><regex>Name:Spectre Spirtualist</regex></oldfilter>
-        <oldfilter><regex>Name:Crypt Excavator</regex></oldfilter>
-        <oldfilter><regex>Name:Howling Spectre</regex></oldfilter>
-        <oldfilter><regex>Name:Mortiferous Protector</regex></oldfilter>
-        <oldfilter><regex>Name:Reanimated Plaguebone</regex></oldfilter>
-        <oldfilter><regex>Name:Undertaker Lord</regex></oldfilter>
-        <oldfilter><regex>Name:Drusella Sathir</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

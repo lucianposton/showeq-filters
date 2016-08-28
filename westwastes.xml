@@ -8,32 +8,32 @@
         <oldfilter><regex>Name:Sontalak</regex></oldfilter>
     </section>
     <section name="Danger">
-        <oldfilter><regex>Name:#Mraaka</regex></oldfilter>
-        <oldfilter><regex>Name:#a Kromzek Captain</regex></oldfilter>
+        <oldfilter><regex>Name:Mraaka</regex></oldfilter>
+        <oldfilter><regex>Name:Kromzek Captain</regex></oldfilter>
         <oldfilter><regex>Name:Escorpa of the Ring</regex></oldfilter>
         <oldfilter><regex>Name:Rak Sapara</regex></oldfilter>
     </section>
     <section name="Locate">
         <oldfilter><regex>Name:Klandicar</regex></oldfilter>
-        <oldfilter><regex>Name:#Myga</regex></oldfilter>
+        <oldfilter><regex>Name:Myga</regex></oldfilter>
         <oldfilter><regex>Name:Myga</regex></oldfilter>
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:#Amcilla</regex></oldfilter>
-        <oldfilter><regex>Name:#Cargalia</regex></oldfilter>
-        <oldfilter><regex>Name:#Icehackle</regex></oldfilter>
-        <oldfilter><regex>Name:#Melalafen</regex></oldfilter>
-        <oldfilter><regex>Name:#Mraaka</regex></oldfilter>
-        <oldfilter><regex>Name:#Nintal</regex></oldfilter>
-        <oldfilter><regex>Name:#Scout Charisa</regex></oldfilter>
-        <oldfilter><regex>Name:#Strong Horn</regex></oldfilter>
-        <oldfilter><regex>Name:#Tantor</regex></oldfilter>
-        <oldfilter><regex>Name:#Travala</regex></oldfilter>
-        <oldfilter><regex>Name:#Tsiraka</regex></oldfilter>
-        <oldfilter><regex>Name:#Von</regex></oldfilter>
-        <oldfilter><regex>Name:#Yal</regex></oldfilter>
-        <oldfilter><regex>Name:#Zil Sapara</regex></oldfilter>
-        <oldfilter><regex>Name:#a Kromzek Captain</regex></oldfilter>
+        <oldfilter><regex>Name:Amcilla</regex></oldfilter>
+        <oldfilter><regex>Name:Cargalia</regex></oldfilter>
+        <oldfilter><regex>Name:Icehackle</regex></oldfilter>
+        <oldfilter><regex>Name:Melalafen</regex></oldfilter>
+        <oldfilter><regex>Name:Mraaka</regex></oldfilter>
+        <oldfilter><regex>Name:Nintal</regex></oldfilter>
+        <oldfilter><regex>Name:Scout Charisa</regex></oldfilter>
+        <oldfilter><regex>Name:Strong Horn</regex></oldfilter>
+        <oldfilter><regex>Name:Tantor</regex></oldfilter>
+        <oldfilter><regex>Name:Travala</regex></oldfilter>
+        <oldfilter><regex>Name:Tsiraka</regex></oldfilter>
+        <oldfilter><regex>Name:Von</regex></oldfilter>
+        <oldfilter><regex>Name:Yal</regex></oldfilter>
+        <oldfilter><regex>Name:Zil Sapara</regex></oldfilter>
+        <oldfilter><regex>Name:Kromzek Captain</regex></oldfilter>
         <oldfilter><regex>Name:Atpaev</regex></oldfilter>
         <oldfilter><regex>Name:Ayillish</regex></oldfilter>
         <oldfilter><regex>Name:Bratavar</regex></oldfilter>
@@ -76,7 +76,7 @@
         <oldfilter><regex>Name:Tranala</regex></oldfilter>
         <oldfilter><regex>Name:Uiliak</regex></oldfilter>
         <oldfilter><regex>Name:Yeldema</regex></oldfilter>
-        <oldfilter><regex>Name:a rogue dire wolf</regex></oldfilter>
+        <oldfilter><regex>Name:rogue dire wolf</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

@@ -3,8 +3,6 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
-        <oldfilter><regex>Name:Terrorantula</regex></oldfilter>
-        <oldfilter><regex>Name:ancient cyclops</regex></oldfilter>
         <oldfilter><regex>Name:dervish cutthroat</regex></oldfilter>
         <oldfilter><regex>Name:mummy</regex></oldfilter>
         <oldfilter><regex>Name:zombie</regex></oldfilter>

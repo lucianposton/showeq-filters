@@ -23,7 +23,7 @@
         <oldfilter><regex>Name:Lieutenant Midraim</regex></oldfilter>
         <oldfilter><regex>Name:Regis the Reverent</regex></oldfilter>
         <oldfilter><regex>Name:Swiftclaw</regex></oldfilter>
-        <oldfilter><regex>Name:The Swarm Mother</regex></oldfilter>
+        <oldfilter><regex>Name:The Swarm Mother</regex></oldfilter> <!-- didn't work? -->
         <oldfilter><regex>Name:Timber the Tiny</regex></oldfilter>
         <oldfilter><regex>Name:Xanuusus</regex></oldfilter>
         <oldfilter><regex>Name:Zahal the Vile</regex></oldfilter>

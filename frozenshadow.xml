@@ -11,34 +11,47 @@
     <section name="Locate">
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:#Amontehepna</regex></oldfilter>
-        <oldfilter><regex>Name:#Cara Omica</regex></oldfilter>
-        <oldfilter><regex>Name:#Daman</regex></oldfilter>
-        <oldfilter><regex>Name:#maggot infested flesh</regex></oldfilter>
-        <oldfilter><regex>Name:#Narmak Berreka</regex></oldfilter>
-        <oldfilter><regex>Name:#Pelpa</regex></oldfilter>
-        <oldfilter><regex>Name:#Uanarcel</regex></oldfilter>
-        <oldfilter><regex>Name:#Voknya</regex></oldfilter>
-        <oldfilter><regex>Name:#Xalgoti</regex></oldfilter>
-        <oldfilter><regex>Name:#Tserrina Syl`Tor</regex></oldfilter>
-        <oldfilter><regex>Name:#Zorglim the Dead</regex></oldfilter>
-        <oldfilter><regex>Name:#a ghostly scholar</regex></oldfilter>
-        <oldfilter><regex>Name:#a ghostly student</regex></oldfilter>
-        <oldfilter><regex>Name:#a herald of mischief</regex></oldfilter>
-        <oldfilter><regex>Name:#a large undead gnoll</regex></oldfilter>
-        <oldfilter><regex>Name:#a shadow beast</regex></oldfilter>
-        <oldfilter><regex>Name:#a shadow beast cook</regex></oldfilter>
-        <oldfilter><regex>Name:#a shadowbone</regex></oldfilter>
-        <oldfilter><regex>Name:#a shrouded bat</regex></oldfilter>
-        <oldfilter><regex>Name:#a skeleton sleeper</regex></oldfilter>
-        <oldfilter><regex>Name:#an angry chef</regex></oldfilter>
-        <oldfilter><regex>Name:#an angry librarian</regex></oldfilter>
-        <oldfilter><regex>Name:#an enraged relative</regex></oldfilter>
-        <oldfilter><regex>Name:#an enraged shadow beast</regex></oldfilter>
-        <oldfilter><regex>Name:#an ice shade</regex></oldfilter>
+        <oldfilter><regex>Name:Amontehepna</regex></oldfilter>
+        <oldfilter><regex>Name:Cara Omica</regex></oldfilter>
+        <oldfilter><regex>Name:Daman</regex></oldfilter>
+        <oldfilter><regex>Name:maggot infested flesh</regex></oldfilter>
+        <oldfilter><regex>Name:Narmak Berreka</regex></oldfilter>
+        <oldfilter><regex>Name:Pelpa</regex></oldfilter>
+        <oldfilter><regex>Name:Uanarcel</regex></oldfilter>
+        <oldfilter><regex>Name:Voknya</regex></oldfilter>
+        <oldfilter><regex>Name:Xalgoti</regex></oldfilter>
+        <oldfilter><regex>Name:Tserrina Syl`Tor</regex></oldfilter>
+        <oldfilter><regex>Name:Zorglim the Dead</regex></oldfilter>
+        <oldfilter><regex>Name:a ghostly scholar</regex></oldfilter>
+        <oldfilter><regex>Name:a ghostly student</regex></oldfilter>
+        <oldfilter><regex>Name:a herald of mischief</regex></oldfilter>
+        <oldfilter><regex>Name:a shadow beast</regex></oldfilter>
+        <oldfilter><regex>Name:a shadow beast cook</regex></oldfilter>
+        <oldfilter><regex>Name:a shadowbone</regex></oldfilter>
+        <oldfilter><regex>Name:a shrouded bat</regex></oldfilter>
+        <oldfilter><regex>Name:a skeleton sleeper</regex></oldfilter>
+        <oldfilter><regex>Name:an angry chef</regex></oldfilter>
+        <oldfilter><regex>Name:an ice shade</regex></oldfilter>
+        <oldfilter><regex>Name:ghostly scholar</regex></oldfilter>
+        <oldfilter><regex>Name:ghostly student</regex></oldfilter>
+        <oldfilter><regex>Name:herald of mischief</regex></oldfilter>
+        <oldfilter><regex>Name:shadow beast</regex></oldfilter>
+        <oldfilter><regex>Name:shadow beast cook</regex></oldfilter>
+        <oldfilter><regex>Name:shadowbone</regex></oldfilter>
+        <oldfilter><regex>Name:shrouded bat</regex></oldfilter>
+        <oldfilter><regex>Name:skeleton sleeper</regex></oldfilter>
+        <oldfilter><regex>Name:angry chef</regex></oldfilter>
+        <oldfilter><regex>Name:ice shade</regex></oldfilter>
         <oldfilter><regex>Name:Priest Majes Medory</regex></oldfilter>
         <oldfilter><regex>Name:Incoherent Spirit</regex></oldfilter>
         <oldfilter><regex>Name:Large Undead Gnoll</regex></oldfilter>
+        <oldfilter><regex>Name:a large undead gnoll</regex></oldfilter>
+        <oldfilter><regex>Name:angry librarian</regex></oldfilter>
+        <oldfilter><regex>Name:an angry librarian</regex></oldfilter>
+        <oldfilter><regex>Name:enraged shadow beast</regex></oldfilter>
+        <oldfilter><regex>Name:an enraged shadow beast</regex></oldfilter>
+        <oldfilter><regex>Name:enraged relative</regex></oldfilter>
+        <oldfilter><regex>Name:an enraged relative</regex></oldfilter>
         <oldfilter><regex>Name:Isopca</regex></oldfilter>
         <oldfilter><regex>Name:Librarian</regex></oldfilter>
         <oldfilter><regex>Name:Narmak Berreka</regex></oldfilter>

@@ -5,32 +5,34 @@
     <section name="Hunt">
     </section>
     <section name="Caution">
+        <oldfilter><regex>Name:invis trap ph</regex></oldfilter>
+        <oldfilter><regex>Name:large crystal shard</regex></oldfilter>
+        <oldfilter><regex>Name:crystal shard</regex></oldfilter>
     </section>
     <section name="Danger">
         <oldfilter><regex>Name:aedispellph</regex></oldfilter>
         <oldfilter><regex>Name:aerainph</regex></oldfilter>
-        <oldfilter><regex>Name:Velketor the Sorceror</regex></oldfilter>
         <oldfilter><regex>Name:Lord Doljonijiarnimorinar</regex></oldfilter>
     </section>
     <section name="Locate">
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:#Bledrek</regex></oldfilter>
-        <oldfilter><regex>Name:#Failed Experiment</regex></oldfilter>
-        <oldfilter><regex>Name:#Gregendek Icepaw</regex></oldfilter>
-        <oldfilter><regex>Name:#Kerdelb</regex></oldfilter>
-        <oldfilter><regex>Name:#Jelek Icepaw</regex></oldfilter>
-        <oldfilter><regex>Name:#Kalik Icepaw</regex></oldfilter>
-        <oldfilter><regex>Name:#Keljemor</regex></oldfilter>
-        <oldfilter><regex>Name:#Laryk Icepaw</regex></oldfilter>
-        <oldfilter><regex>Name:#Marlek Icepaw</regex></oldfilter>
-        <oldfilter><regex>Name:#Meljemor</regex></oldfilter>
-        <oldfilter><regex>Name:#Rowwek Icepaw</regex></oldfilter>
-        <oldfilter><regex>Name:#Tpos Icepaw</regex></oldfilter>
-        <oldfilter><regex>Name:#Ular Icepaw</regex></oldfilter>
-        <oldfilter><regex>Name:#Venar Icepaw</regex></oldfilter>
+        <oldfilter><regex>Name:Bledrek</regex></oldfilter>
+        <oldfilter><regex>Name:Failed Experiment</regex></oldfilter>
+        <oldfilter><regex>Name:Gregendek Icepaw</regex></oldfilter>
+        <oldfilter><regex>Name:Kerdelb</regex></oldfilter>
+        <oldfilter><regex>Name:Jelek Icepaw</regex></oldfilter>
+        <oldfilter><regex>Name:Kalik Icepaw</regex></oldfilter>
+        <oldfilter><regex>Name:Keljemor</regex></oldfilter>
+        <oldfilter><regex>Name:Laryk Icepaw</regex></oldfilter>
+        <oldfilter><regex>Name:Marlek Icepaw</regex></oldfilter>
+        <oldfilter><regex>Name:Meljemor</regex></oldfilter>
+        <oldfilter><regex>Name:Rowwek Icepaw</regex></oldfilter>
+        <oldfilter><regex>Name:Tpos Icepaw</regex></oldfilter>
+        <oldfilter><regex>Name:Ular Icepaw</regex></oldfilter>
+        <oldfilter><regex>Name:Venar Icepaw</regex></oldfilter>
         <oldfilter><regex>Name:A Crystal Destroyer</regex></oldfilter>
-        <oldfilter><regex>Name:Brood Master</regex></oldfilter>
+        <oldfilter><regex>Name:The Brood Master</regex></oldfilter>
         <oldfilter><regex>Name:Crystal Eyes</regex></oldfilter>
         <oldfilter><regex>Name:Crystal Fang</regex></oldfilter>
         <oldfilter><regex>Name:Khelkar Icepaw</regex></oldfilter>
@@ -39,9 +41,11 @@
         <oldfilter><regex>Name:Rijoely</regex></oldfilter>
         <oldfilter><regex>Name:The Brood Mother</regex></oldfilter>
         <oldfilter><regex>Name:Tijoely</regex></oldfilter>
-        <oldfilter><regex>Name:Velketor the Sorceror</regex></oldfilter>
+        <oldfilter><regex>Name:Velketor the Sorcerer</regex></oldfilter>
         <oldfilter><regex>Name:Velketor's Experiment</regex></oldfilter>
-        <oldfilter><regex>Name:a Frenzied Velium Stalker</regex></oldfilter>
+        <oldfilter><regex>Name:Frenzied Velium Stalker</regex></oldfilter>
+        <oldfilter><regex>Name:Frenzied Velium Broodling</regex></oldfilter>
+        <oldfilter><regex>Name:crystalline hunter</regex></oldfilter>
         <oldfilter><regex>Name:Large Crystal Shard</regex></oldfilter>
     </section>
     <section name="Filtered">

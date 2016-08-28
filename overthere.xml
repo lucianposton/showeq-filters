@@ -5,6 +5,10 @@
     <section name="Hunt">
     </section>
     <section name="Caution">
+        <oldfilter><regex>Name:cliff golem</regex></oldfilter>
+        <oldfilter><regex>Name:Corundium</regex></oldfilter>
+        <oldfilter><regex>Name:Tourmaline</regex></oldfilter>
+        <oldfilter><regex>Name:undead foreman</regex></oldfilter>
     </section>
     <section name="Danger">
         <oldfilter><regex>Name:Dragoon Barber W`Selo</regex></oldfilter>
@@ -17,19 +21,8 @@
     <section name="Locate">
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:#High Priest I`Xar</regex></oldfilter>
-        <oldfilter><regex>Name:Admiral Tylix</regex></oldfilter>
-        <oldfilter><regex>Name:Alchemist Granika</regex></oldfilter>
-        <oldfilter><regex>Name:Captain Rottgrime</regex></oldfilter>
-        <oldfilter><regex>Name:Corundium</regex></oldfilter>
         <oldfilter><regex>Name:Impaler Tzilug</regex></oldfilter>
         <oldfilter><regex>Name:Modani Qu`Loni</regex></oldfilter>
-        <oldfilter><regex>Name:Stishovite</regex></oldfilter>
-        <oldfilter><regex>Name:Tektite</regex></oldfilter>
-        <oldfilter><regex>Name:Tourmaline</regex></oldfilter>
-        <oldfilter><regex>Name:a cliff golem</regex></oldfilter>
-        <oldfilter><regex>Name:a scorpikis scrounger</regex></oldfilter>
-        <oldfilter><regex>Name:an undead foreman</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

@@ -5,8 +5,8 @@
     <section name="Hunt">
     </section>
     <section name="Caution">
-        <oldfilter><regex>Name:a chromadrac</regex></oldfilter>
-        <oldfilter><regex>Name:a mature chromadrac</regex></oldfilter>
+        <oldfilter><regex>Name:chromadrac</regex></oldfilter>
+        <oldfilter><regex>Name:mature chromadrac</regex></oldfilter>
     </section>
     <section name="Danger">
         <oldfilter><regex>Name:Talendor</regex></oldfilter>
@@ -15,15 +15,22 @@
         <oldfilter><regex>Name:Zordakalicus Ragefire</regex></oldfilter>
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:!#a fire wurm</regex></oldfilter>
-        <oldfilter><regex>Name:#a fire wurm</regex></oldfilter>
-        <oldfilter><regex>Name:#Obsidian Wyvern</regex></oldfilter>
-        <oldfilter><regex>Name:#a nightfire drake</regex></oldfilter>
+        <oldfilter><regex>Name:fire wurm</regex></oldfilter>
+        <oldfilter><regex>Name:Obsidian Wyvern</regex></oldfilter>
+        <oldfilter><regex>Name:nightfire drake</regex></oldfilter>
         <oldfilter><regex>Name:Eldrig the Old</regex></oldfilter>
         <oldfilter><regex>Name:Felia Goldenwing</regex></oldfilter>
         <oldfilter><regex>Name:Talendor</regex></oldfilter>
         <oldfilter><regex>Name:Zordakalicus Ragefire</regex></oldfilter>
         <oldfilter><regex>Name:Black Scar</regex></oldfilter>
+        <oldfilter><regex>Name:Faerie of Dismay</regex></oldfilter>
+        <oldfilter><regex>Name:Felia Goldenwing</regex></oldfilter>
+        <oldfilter><regex>Name:Guardian of Felia</regex></oldfilter>
+        <oldfilter><regex>Name:lava walker</regex></oldfilter>
+        <oldfilter><regex>Name:shadow drake</regex></oldfilter>
+        <oldfilter><regex>Name:Soul Devourer</regex></oldfilter>
+        <oldfilter><regex>Name:Wandering Wurm</regex></oldfilter>
+        <oldfilter><regex>Name:wurm spirit</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

@@ -18,15 +18,15 @@
         <oldfilter><regex>Name:stormfeather</regex></oldfilter>
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:#Midnight</regex></oldfilter>
-        <oldfilter><regex>Name:#dire wolf stalker</regex></oldfilter>
-        <oldfilter><regex>Name:#pulsating icestorm</regex></oldfilter>
+        <oldfilter><regex>Name:Midnight</regex></oldfilter>
+        <oldfilter><regex>Name:dire wolf stalker</regex></oldfilter>
+        <oldfilter><regex>Name:pulsating icestorm</regex></oldfilter>
         <oldfilter><regex>Name:Balix Misteyes</regex></oldfilter>
         <oldfilter><regex>Name:Garou</regex></oldfilter>
         <oldfilter><regex>Name:General Bragmur</regex></oldfilter>
         <oldfilter><regex>Name:Lodizal</regex></oldfilter>
         <oldfilter><regex>Name:Stormfeather</regex></oldfilter>
-        <oldfilter><regex>Name:a lost pirate</regex></oldfilter>
+        <oldfilter><regex>Name:lost pirate</regex></oldfilter>
         <oldfilter><regex>Name:rabid snow cougar</regex></oldfilter>
     </section>
     <section name="Filtered">

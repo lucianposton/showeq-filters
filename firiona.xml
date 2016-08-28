@@ -14,12 +14,13 @@
     <section name="Alert">
         <oldfilter><regex>Name:halfling swashbuckler</regex></oldfilter>
         <oldfilter><regex>Name:Kwinn the Outlander</regex></oldfilter>
-        <oldfilter><regex>Name:Realla Segoan</regex></oldfilter>
         <oldfilter><regex>Name:Red Eye Jack</regex></oldfilter>
         <oldfilter><regex>Name:Sir Hobble</regex></oldfilter>
+        <oldfilter><regex>Name:Squire Fuzzmin</regex></oldfilter>
         <oldfilter><regex>Name:pirate destroyer</regex></oldfilter>
         <oldfilter><regex>Name:ancient Jarsath</regex></oldfilter>
         <oldfilter><regex>Name:Maidens Voyage</regex></oldfilter>
+        <oldfilter><regex>Name:diseased forest giant</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

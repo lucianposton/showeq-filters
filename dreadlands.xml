@@ -11,6 +11,7 @@
         <oldfilter><regex>Name:Gorenaire</regex></oldfilter>
     </section>
     <section name="Locate">
+        <oldfilter><regex>Name:rotting skeleton</regex></oldfilter>
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:Dread Widow</regex></oldfilter>

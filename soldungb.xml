@@ -8,10 +8,8 @@
     <section name="Caution">
     </section>
     <section name="Danger">
-        <oldfilter><regex>Name:Lord Nagafen</regex></oldfilter>
     </section>
     <section name="Locate">
-        <oldfilter><regex>Name:Lord Nagafen</regex></oldfilter>
         <oldfilter><regex>Name:Zordak Ragefire</regex></oldfilter>
         <oldfilter><regex>Name:Zordakilicus Ragefire</regex></oldfilter>
     </section>

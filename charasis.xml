@@ -3,43 +3,52 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
-        <oldfilter><regex>Name:Skeletal Procurator</regex></oldfilter>
+        <oldfilter><regex>Name:Crypt Spectre</regex></oldfilter>
+        <oldfilter><regex>Name:Crypt Wurm</regex></oldfilter>
+        <oldfilter><regex>Name:Drusella Sathir</regex></oldfilter>
+        <oldfilter><regex>Name:Embalming Fluid</regex></oldfilter>
+        <oldfilter><regex>Name:Howling Spectre</regex></oldfilter>
         <oldfilter><regex>Name:Mortiferous Protector</regex></oldfilter>
-        <oldfilter><regex>Name:embalming fluid</regex></oldfilter>
-        <oldfilter><regex>Name:crypt wurm</regex></oldfilter>
-        <oldfilter><regex>Name:The Crypt Feaster</regex></oldfilter>
+        <oldfilter><regex>Name:Pulsating Bile</regex></oldfilter>
+        <oldfilter><regex>Name:Reanimated Plaguebone</regex></oldfilter>
+        <oldfilter><regex>Name:Sentient Bile</regex></oldfilter>
+        <oldfilter><regex>Name:Skeletal Procurator</regex></oldfilter>
+        <oldfilter><regex>Name:Spectre Sepulcher</regex></oldfilter>
         <oldfilter><regex>Name:The Crypt Excavator</regex></oldfilter>
+        <oldfilter><regex>Name:The Crypt Feaster</regex></oldfilter>
         <oldfilter><regex>Name:The Crypt Keeper</regex></oldfilter>
         <oldfilter><regex>Name:The Golem Master</regex></oldfilter>
         <oldfilter><regex>Name:The Skeleton Sepulcher</regex></oldfilter>
-        <oldfilter><regex>Name:Spectre Sepulcher</regex></oldfilter>
-        <oldfilter><regex>Name:The Spectre Spiritualist</regex></oldfilter>
+        <oldfilter><regex>Name:The Spectre Sepulcher</regex></oldfilter>
+        <oldfilter><regex>Name:The Spectre Spirtualist</regex></oldfilter>
+        <oldfilter><regex>Name:The Undertaker Lord</regex></oldfilter>
     </section>
     <section name="Caution">
     </section>
     <section name="Danger">
     </section>
     <section name="Locate">
-        <oldfilter><regex>Name:Drusella Sathir</regex></oldfilter>
     </section>
     <section name="Alert">
+        <oldfilter><regex>Name:Crypt Spectre</regex></oldfilter>
+        <oldfilter><regex>Name:Crypt Wurm</regex></oldfilter>
         <oldfilter><regex>Name:Drusella Sathir</regex></oldfilter>
-        <oldfilter><regex>Name:Skeletal Procurator</regex></oldfilter>
+        <oldfilter><regex>Name:Embalming Fluid</regex></oldfilter>
+        <oldfilter><regex>Name:Howling Spectre</regex></oldfilter>
         <oldfilter><regex>Name:Mortiferous Protector</regex></oldfilter>
-        <oldfilter><regex>Name:embalming fluid</regex></oldfilter>
-        <oldfilter><regex>Name:crypt wurm</regex></oldfilter>
-        <oldfilter><regex>Name:The Crypt Feaster</regex></oldfilter>
+        <oldfilter><regex>Name:Pulsating Bile</regex></oldfilter>
+        <oldfilter><regex>Name:Reanimated Plaguebone</regex></oldfilter>
+        <oldfilter><regex>Name:Sentient Bile</regex></oldfilter>
+        <oldfilter><regex>Name:Skeletal Procurator</regex></oldfilter>
+        <oldfilter><regex>Name:Spectre Sepulcher</regex></oldfilter>
         <oldfilter><regex>Name:The Crypt Excavator</regex></oldfilter>
+        <oldfilter><regex>Name:The Crypt Feaster</regex></oldfilter>
         <oldfilter><regex>Name:The Crypt Keeper</regex></oldfilter>
         <oldfilter><regex>Name:The Golem Master</regex></oldfilter>
-        <oldfilter><regex>Name:Skeletal Procurator</regex></oldfilter>
         <oldfilter><regex>Name:The Skeleton Sepulcher</regex></oldfilter>
         <oldfilter><regex>Name:The Spectre Sepulcher</regex></oldfilter>
-        <oldfilter><regex>Name:The Spectre Spiritualist</regex></oldfilter>
+        <oldfilter><regex>Name:The Spectre Spirtualist</regex></oldfilter>
         <oldfilter><regex>Name:The Undertaker Lord</regex></oldfilter>
-        <oldfilter><regex>Name:Sentient Bile</regex></oldfilter>
-        <oldfilter><regex>Name:Embalming Fluid</regex></oldfilter>
-        <oldfilter><regex>Name:Reanimated Plaguebone</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

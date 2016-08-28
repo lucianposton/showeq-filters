@@ -5,13 +5,14 @@
     <section name="Hunt">
     </section>
     <section name="Caution">
+        <oldfilter><regex>Name:aqua goblin tidal lord</regex></oldfilter>
     </section>
     <section name="Danger">
     </section>
     <section name="Locate">
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:#Llara</regex></oldfilter>
+        <oldfilter><regex>Name:Llara</regex></oldfilter>
         <oldfilter><regex>Name:Barnacle Bones</regex></oldfilter>
         <oldfilter><regex>Name:Bilge Farfathom</regex></oldfilter>
         <oldfilter><regex>Name:Boondin Babbinsbort</regex></oldfilter>
@@ -30,8 +31,7 @@
         <oldfilter><regex>Name:Splintered Claw</regex></oldfilter>
         <oldfilter><regex>Name:Squallslither</regex></oldfilter>
         <oldfilter><regex>Name:Yymp the Infernal</regex></oldfilter>
-        <oldfilter><regex>Name:aqua goblin tidal lord</regex></oldfilter>
-        <oldfilter><regex>Name:an exiled legionnaire</regex></oldfilter>
+        <oldfilter><regex>Name:exiled legionnaire</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

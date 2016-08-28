@@ -11,6 +11,7 @@
     <section name="Locate">
     </section>
     <section name="Alert">
+        <oldfilter><regex>Name:Golden Maiden</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

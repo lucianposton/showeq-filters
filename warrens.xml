@@ -11,6 +11,21 @@
     <section name="Locate">
     </section>
     <section name="Alert">
+        <oldfilter><regex>Name:The Muglwump</regex></oldfilter>
+        <oldfilter><regex>Name:King Gragnar</regex></oldfilter>
+        <oldfilter><regex>Name:High Shaman Drogik</regex></oldfilter>
+        <oldfilter><regex>Name:Warlord Drrig</regex></oldfilter>
+        <oldfilter><regex>Name:The Mighty Bear Paw</regex></oldfilter>
+        <oldfilter><regex>Name:Huntmaster Furgrl</regex></oldfilter>
+        <oldfilter><regex>Name:Prince Bragnar</regex></oldfilter>
+        <oldfilter><regex>Name:Lorekeeper Roggik</regex></oldfilter>
+        <oldfilter><regex>Name:Krode the Diviner</regex></oldfilter>
+        <oldfilter><regex>Name:Foodmaster Rargnar</regex></oldfilter>
+        <oldfilter><regex>Name:Jailer Mkrarrg</regex></oldfilter>
+        <oldfilter><regex>Name:Smithy Rrarrgin</regex></oldfilter>
+        <oldfilter><regex>Name:Trainer Daxgrr</regex></oldfilter>
+        <oldfilter><regex>Name:Grodl Ripclaw</regex></oldfilter>
+        <oldfilter><regex>Name:cave bat lord</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

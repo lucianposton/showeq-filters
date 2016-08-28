@@ -21,8 +21,8 @@
         <oldfilter><regex>Name:Oracle of K'Arnon</regex></oldfilter>
         <oldfilter><regex>Name:Quag</regex></oldfilter>
         <oldfilter><regex>Name:Soaring Brightfeather</regex></oldfilter>
-<oldfilter><regex>Name:Sea King</regex></oldfilter>
-<oldfilter><regex>Name:Ancient Cyclops</regex></oldfilter>
+        <oldfilter><regex>Name:Sea King</regex></oldfilter>
+        <oldfilter><regex>Name:Ancient Cyclops</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>
