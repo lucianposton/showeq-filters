@@ -11,11 +11,12 @@
         <oldfilter><regex>Name:puma</regex></oldfilter>
     </section>
     <section name="Caution">
-        <oldfilter><regex>Name:griffin</regex></oldfilter>
         <oldfilter><regex>Name:air elemental</regex></oldfilter>
         <oldfilter><regex>Name:werewolf</regex></oldfilter>
+        <oldfilter><regex>Name:Sergeant Slate</regex></oldfilter>
     </section>
     <section name="Danger">
+        <oldfilter><regex>Name:griffin</regex></oldfilter>
     </section>
     <section name="Locate">
     </section>

@@ -11,11 +11,11 @@
     </section>
     <section name="Danger">
         <oldfilter><regex>Name:You have</regex></oldfilter>
-        <oldfilter><regex>Name:Kromriff Death Squad</regex></oldfilter>
+        <oldfilter><regex>Name:Kromrif Death Squad</regex></oldfilter>
         <oldfilter><regex>Name:Kromrif Elite</regex></oldfilter>
         <oldfilter><regex>Name:Kromrif Soldier</regex></oldfilter>
-        <oldfilter><regex>Name:Ry`Gorr Elite:</regex></oldfilter>
-        <oldfilter><regex>Name:Ry`Gorr Oracle:</regex></oldfilter>
+        <oldfilter><regex>Name:Ry`Gorr Elite</regex></oldfilter>
+        <oldfilter><regex>Name:Ry`Gorr Oracle</regex></oldfilter>
         <oldfilter><regex>Name:a Ry`Gorr Avenger</regex></oldfilter>
     </section>
     <section name="Locate">
@@ -43,8 +43,6 @@
         <oldfilter><regex>Name:Tanik Greskil</regex></oldfilter>
         <oldfilter><regex>Name:Warden Bruke</regex></oldfilter>
         <oldfilter><regex>Name:a blacksmith of Ry`Gorr</regex></oldfilter>
-        <oldfilter><regex>Name:a snow griffin</regex></oldfilter>
-        <oldfilter><regex>Name:an elder snow griffin</regex></oldfilter>
         <oldfilter><regex>Name:Your</regex></oldfilter>
     </section>
     <section name="Filtered">

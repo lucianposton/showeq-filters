@@ -3,6 +3,8 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
+        <oldfilter><regex>Name:a bull alligator</regex></oldfilter>
+        <oldfilter><regex>Name:a swamp alligator</regex></oldfilter>
     </section>
     <section name="Caution">
     </section>
@@ -18,9 +20,7 @@
         <oldfilter><regex>Name:Troll Captain</regex></oldfilter>
         <oldfilter><regex>Name:Troll Slayer</regex></oldfilter>
         <oldfilter><regex>Name:Zimbittle</regex></oldfilter>
-        <oldfilter><regex>Name:a bull alligator</regex></oldfilter>
         <oldfilter><regex>Name:a fat alligator</regex></oldfilter>
-        <oldfilter><regex>Name:a swamp alligator</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

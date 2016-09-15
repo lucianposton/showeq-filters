@@ -3,11 +3,10 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
-        <oldfilter><regex>Name:Greenblood zombie</regex></oldfilter>
         <oldfilter><regex>Name:Thul Tae Ew Cenobite</regex></oldfilter>
-        <oldfilter><regex>Name:Radiant</regex></oldfilter>
     </section>
     <section name="Caution">
+        <oldfilter><regex>Name:Greenblood zombie</regex></oldfilter>
     </section>
     <section name="Danger">
         <oldfilter><regex>Name:Dark Assassin</regex></oldfilter>

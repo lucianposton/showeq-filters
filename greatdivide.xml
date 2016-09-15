@@ -8,7 +8,7 @@
     <section name="Caution">
     </section>
     <section name="Danger">
-        <oldfilter><regex>Name:Narandi the Wretched:</regex><level min="50" max="70"/></oldfilter>
+        <oldfilter><regex>Name:Narandi the Wretched</regex><level min="50" max="70"/></oldfilter>
     </section>
     <section name="Locate">
     </section>
@@ -26,7 +26,7 @@
         <oldfilter><regex>Name:Fergul Frostsky</regex></oldfilter>
         <oldfilter><regex>Name:Gralk Dwarfkiller</regex></oldfilter>
         <oldfilter><regex>Name:Kromrif Elite Guard</regex></oldfilter>
-        <oldfilter><regex>Name:Narandi the Wretched:</regex><level min="50" max="70"/></oldfilter>
+        <oldfilter><regex>Name:Narandi the Wretched</regex><level min="50" max="70"/></oldfilter>
         <oldfilter><regex>Name:Relik</regex></oldfilter>
         <oldfilter><regex>Name:Shardwurm Broodmother</regex></oldfilter>
         <oldfilter><regex>Name:Shardwurm Matriarch</regex></oldfilter>

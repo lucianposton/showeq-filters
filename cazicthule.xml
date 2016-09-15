@@ -41,7 +41,7 @@
         <oldfilter><regex>Name:Tae Ew Hunter</regex></oldfilter>
     </section>
     <section name="Locate">
-        <oldfilter><regex>Name:Gimlik Cogboggle:</regex></oldfilter>
+        <oldfilter><regex>Name:Gimlik Cogboggle</regex></oldfilter>
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:!#a poisonstrand hunter</regex></oldfilter>

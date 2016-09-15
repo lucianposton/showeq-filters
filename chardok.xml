@@ -3,7 +3,7 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
-        <oldfilter><regex>Name:Ancient Guardian:</regex></oldfilter>
+        <oldfilter><regex>Name:Ancient Guardian</regex></oldfilter>
     </section>
     <section name="Caution">
         <oldfilter><regex>Name:Sarnak Aruspice</regex></oldfilter>
