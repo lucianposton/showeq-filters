@@ -9,7 +9,6 @@
     <section name="Danger">
     </section>
     <section name="Locate">
-        <oldfilter><regex>Name:Severilous</regex></oldfilter>
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:#a spectral soldier</regex></oldfilter>

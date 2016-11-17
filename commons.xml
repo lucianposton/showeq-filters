@@ -12,8 +12,6 @@
         <oldfilter><regex>Name:a werewolf</regex></oldfilter>
     </section>
     <section name="Locate">
-        <oldfilter><regex>Name:Dragoon Zytl</regex></oldfilter>
-        <oldfilter><regex>Name:Kizdean Gix</regex></oldfilter>
         <oldfilter><regex>Name:Nightfall Giant</regex></oldfilter>
     </section>
     <section name="Alert">

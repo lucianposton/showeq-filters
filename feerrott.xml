@@ -14,7 +14,7 @@
     <section name="Locate">
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:Cyndreela</regex></oldfilter>
+        <oldfilter><regex>Name:Cyndreela:</regex></oldfilter>
         <oldfilter><regex>Name:Dark Assassin</regex></oldfilter>
         <oldfilter><regex>Name:Evil Enchantress</regex></oldfilter>
         <oldfilter><regex>Name:Radiant</regex></oldfilter>

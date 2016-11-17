@@ -15,6 +15,7 @@
     <section name="Locate">
     </section>
     <section name="Alert">
+        <oldfilter><regex>Name:ancient cyclops</regex></oldfilter>
         <oldfilter><regex>Name:#Izera N`Kar</regex></oldfilter>
         <oldfilter><regex>Name:Broon</regex></oldfilter>
         <oldfilter><regex>Name:Chief SaNre'Rexxa</regex></oldfilter>

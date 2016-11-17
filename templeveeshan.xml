@@ -7,13 +7,8 @@
     <section name="Caution">
     </section>
     <section name="Danger">
-        <oldfilter><regex>Name:#Aaryonar</regex></oldfilter>
-        <oldfilter><regex>Name:#Eashen of the Sky</regex></oldfilter>
-        <oldfilter><regex>Name:#Gozzrem</regex></oldfilter>
-        <oldfilter><regex>Name:#Telkorenar</regex></oldfilter>
     </section>
     <section name="Locate">
-        <oldfilter><regex>Name:#Ikatiar the Venom</regex></oldfilter>
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:#Aaryonar</regex></oldfilter>
@@ -51,7 +46,6 @@
         <oldfilter><regex>Name:#Zlexak</regex></oldfilter>
         <oldfilter><regex>Name:Arreken Skyward</regex></oldfilter>
         <oldfilter><regex>Name:Beldion Icewind</regex></oldfilter>
-        <oldfilter><regex>Name:Belijor the Emerald Eye</regex></oldfilter>
         <oldfilter><regex>Name:Bryrym</regex></oldfilter>
         <oldfilter><regex>Name:Carx`Vean</regex></oldfilter>
         <oldfilter><regex>Name:Casalen</regex></oldfilter>
@@ -65,16 +59,13 @@
         <oldfilter><regex>Name:Lord Koi`Doken</regex></oldfilter>
         <oldfilter><regex>Name:Lurian</regex></oldfilter>
         <oldfilter><regex>Name:Mazrien</regex></oldfilter>
-        <oldfilter><regex>Name:Meldikor the Windchaser</regex></oldfilter>
-        <oldfilter><regex>Name:Nelaarn the Ebon Claw</regex></oldfilter>
         <oldfilter><regex>Name:Nir`Tan</regex></oldfilter>
         <oldfilter><regex>Name:Sevalak</regex></oldfilter>
         <oldfilter><regex>Name:Tavekalem</regex></oldfilter>
         <oldfilter><regex>Name:Telkorenar</regex></oldfilter>
-        <oldfilter><regex>Name:Theldek the Stinger</regex></oldfilter>
         <oldfilter><regex>Name:Vulak`Aerr</regex></oldfilter>
+        <oldfilter><regex>Name:Vukuz</regex></oldfilter>
         <oldfilter><regex>Name:Wel`Wnas</regex></oldfilter>
-        <oldfilter><regex>Name:Yendilor the Cerulean Wing</regex></oldfilter>
         <oldfilter><regex>Name:Zyerek Onyxblood</regex></oldfilter>
     </section>
     <section name="Filtered">

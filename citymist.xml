@@ -12,7 +12,7 @@
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:Lord Kizaul</regex></oldfilter>
-        <oldfilter><regex>Name:Lord_Rak`Ashiir</regex></oldfilter>
+        <oldfilter><regex>Name:Lord Rak`Ashiir</regex></oldfilter>
         <oldfilter><regex>Name:Tzirathk</regex></oldfilter>
         <oldfilter><regex>Name:mist reaver</regex></oldfilter>
         <oldfilter><regex>Name:shadowed invoker</regex></oldfilter>

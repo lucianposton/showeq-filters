@@ -14,12 +14,12 @@
         <oldfilter><regex>Name:drake</regex></oldfilter>
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:Ankhefenmut</regex></oldfilter>
-        <oldfilter><regex>Name:Bindlegrob</regex></oldfilter>
+        <oldfilter><regex>Name:Ankhefenmut:</regex></oldfilter>
+        <oldfilter><regex>Name:Bindlegrob:</regex></oldfilter>
         <oldfilter><regex>Name:Blackwing</regex></oldfilter>
         <oldfilter><regex>Name:Broog Bloodbeard</regex></oldfilter>
         <oldfilter><regex>Name:Brother Zephyl</regex></oldfilter>
-        <oldfilter><regex>Name:Findlegrob</regex></oldfilter>
+        <oldfilter><regex>Name:Findlegrob:</regex></oldfilter>
         <oldfilter><regex>Name:Grazhak the Berzerker</regex></oldfilter>
         <oldfilter><regex>Name:Hasten Bootstrutter</regex></oldfilter>
         <oldfilter><regex>Name:Maldyn the Unkempt</regex></oldfilter>
@@ -29,7 +29,7 @@
         <oldfilter><regex>Name:Quid Rilstone</regex></oldfilter>
         <oldfilter><regex>Name:Rharzar</regex></oldfilter>
         <oldfilter><regex>Name:Shardwing</regex></oldfilter>
-        <oldfilter><regex>Name:Sindlegrob</regex></oldfilter>
+        <oldfilter><regex>Name:Sindlegrob:</regex></oldfilter>
         <oldfilter><regex>Name:Syythrak Mortificator</regex></oldfilter>
         <oldfilter><regex>Name:Tarskuk</regex></oldfilter>
         <oldfilter><regex>Name:Tindlegrob</regex></oldfilter>

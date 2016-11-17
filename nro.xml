@@ -8,6 +8,7 @@
         <oldfilter><regex>Name:Dorn B`Dynn</regex></oldfilter>
     </section>
     <section name="Danger">
+        <oldfilter><regex>Name:sand giant</regex></oldfilter>
     </section>
     <section name="Locate">
     </section>

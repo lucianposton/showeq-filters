@@ -14,7 +14,9 @@
         <oldfilter><regex>Name:Scar</regex></oldfilter>
         <oldfilter><regex>Name:Stanos Herkanor</regex></oldfilter>
         <oldfilter><regex>Name:Dyllin Starshine</regex></oldfilter>
-        <oldfilter><regex>Name:Hagnis Shralock</regex></oldfilter>
+        <oldfilter><regex>Name:Hagnis Shralok</regex></oldfilter>
+        <oldfilter><regex>Name:Recfek Shralok</regex></oldfilter>
+        <oldfilter><regex>Name:Vopuk Shralok</regex></oldfilter>
         <oldfilter><regex>Name:Grenix Mucktail</regex></oldfilter>
         <oldfilter><regex>Name:Vexven Mucktail</regex></oldfilter>
         <oldfilter><regex>Name:Vexven Mucktail</regex></oldfilter>

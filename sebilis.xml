@@ -15,8 +15,8 @@
     <section name="Locate">
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:!froglok ilis acolyte</regex></oldfilter>
-        <oldfilter><regex>Name:#froglok krup mage</regex></oldfilter>
+        <oldfilter><regex>Name:froglok ilis acolyte</regex></oldfilter>
+        <oldfilter><regex>Name:froglok krup mage</regex></oldfilter>
         <oldfilter><regex>Name:An Undead Bard</regex></oldfilter>
         <oldfilter><regex>Name:Arch Duke Iatol</regex></oldfilter>
         <oldfilter><regex>Name:Arch Heirophant Galek</regex></oldfilter>

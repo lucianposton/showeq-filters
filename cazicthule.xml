@@ -30,6 +30,8 @@
         <oldfilter><regex>Name:#Dismay</regex></oldfilter>
         <oldfilter><regex>Name:#Dreadfang</regex></oldfilter>
         <oldfilter><regex>Name:#Toxiferious</regex></oldfilter>
+        <oldfilter><regex>Name:Lizard Crusader</regex></oldfilter>
+        <oldfilter><regex>Name:Silvered Guard</regex></oldfilter>
     </section>
     <section name="Caution">
     </section>
@@ -76,7 +78,6 @@
         <oldfilter><regex>Name:Avatar of Fear</regex></oldfilter>
         <oldfilter><regex>Name:Cazic Cenobite</regex></oldfilter>
         <oldfilter><regex>Name:Clay Golem</regex></oldfilter>
-        <oldfilter><regex>Name:Lizard Crusader</regex></oldfilter>
         <oldfilter><regex>Name:Radiant</regex></oldfilter>
         <oldfilter><regex>Name:Steel Golem</regex></oldfilter>
         <oldfilter><regex>Name:Stone Golem</regex></oldfilter>

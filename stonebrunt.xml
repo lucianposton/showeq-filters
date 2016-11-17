@@ -11,6 +11,16 @@
     <section name="Locate">
     </section>
     <section name="Alert">
+        <oldfilter><regex>Name:Arglar the Tormentor</regex></oldfilter>
+        <oldfilter><regex>Name:Ghost of Ridossan</regex></oldfilter>
+        <oldfilter><regex>Name:Giang Yin</regex></oldfilter>
+        <oldfilter><regex>Name:a heretic invader</regex></oldfilter>
+        <oldfilter><regex>Name:Hurglak the Destroyer</regex></oldfilter>
+        <oldfilter><regex>Name:Old Ghostback</regex></oldfilter>
+        <oldfilter><regex>Name:Prowler of the Jungle</regex></oldfilter>
+        <oldfilter><regex>Name:Rognarog the Infuriated</regex></oldfilter>
+        <oldfilter><regex>Name:Slyder the Ancient</regex></oldfilter>
+        <oldfilter><regex>Name:Snowbeast</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>
