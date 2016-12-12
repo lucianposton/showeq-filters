@@ -3,7 +3,7 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
-        <oldfilter><regex>Name:ice shade</regex></oldfilter>
+        <oldfilter><regex>Name:icy shade</regex></oldfilter>
         <oldfilter><regex>Name:shrouded bat</regex></oldfilter>
     </section>
     <section name="Caution">
@@ -34,8 +34,11 @@
 
         <oldfilter><regex>Name:Incoherent Spirit</regex></oldfilter>
         <oldfilter><regex>Name:lucid spirit of Abrams</regex></oldfilter>
+        <oldfilter><regex>Name:ice shade.*:Race:Spectre:</regex></oldfilter>
+        <oldfilter><regex>Name:ice shade pet</regex></oldfilter>
         <oldfilter><regex>Name:VhalSera</regex></oldfilter>
 
+        <oldfilter><regex>Name:shrouded bat</regex><level min="34" max="34"/></oldfilter>
         <oldfilter><regex>Name:Tserrina Syl`Tor</regex></oldfilter>
     </section>
     <section name="Filtered">

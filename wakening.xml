@@ -18,6 +18,7 @@
         <oldfilter><regex>Name:storm giant architect</regex></oldfilter>
         <oldfilter><regex>Name:storm giant foreman</regex></oldfilter>
         <oldfilter><regex>Name:storm giant surveyor</regex></oldfilter>
+        <oldfilter><regex>Name:geonid shaman</regex></oldfilter>
     </section>
     <section name="Danger">
         <oldfilter><regex>Name:Corrupted Faun</regex></oldfilter>
