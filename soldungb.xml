@@ -18,7 +18,7 @@
         <oldfilter><regex>Name:Death Scarab</regex></oldfilter>
         <oldfilter><regex>Name:Efreeti Lord Djarn</regex></oldfilter>
         <oldfilter><regex>Name:Guano Harvester</regex></oldfilter>
-        <oldfilter><regex>Name:King Tranix</regex></oldfilter>
+        <oldfilter><regex>Name:King Tranix:</regex></oldfilter>
         <oldfilter><regex>Name:Kobold Champion</regex></oldfilter>
         <oldfilter><regex>Name:Kobold Noble</regex></oldfilter>
         <oldfilter><regex>Name:Kobold Priest</regex></oldfilter>

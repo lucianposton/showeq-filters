@@ -5,24 +5,26 @@
     <section name="Hunt">
     </section>
     <section name="Caution">
-    </section>
-    <section name="Danger">
         <oldfilter><regex>Name:Choon</regex></oldfilter>
         <oldfilter><regex>Name:Froon</regex></oldfilter>
         <oldfilter><regex>Name:Spinner</regex></oldfilter>
     </section>
+    <section name="Danger">
+    </section>
     <section name="Locate">
+        <oldfilter><regex>Name:The Swarm Mother</regex></oldfilter>
     </section>
     <section name="Alert">
-        <oldfilter><regex>Name:Chief Goonda</regex></oldfilter>
+        <oldfilter><regex>Name:Chief Goonda:</regex></oldfilter>
         <oldfilter><regex>Name:Choon</regex></oldfilter>
         <oldfilter><regex>Name:Froon</regex></oldfilter>
         <oldfilter><regex>Name:Frostbite</regex></oldfilter>
         <oldfilter><regex>Name:Ghoul Messenger</regex></oldfilter>
         <oldfilter><regex>Name:Gindlin Tox Fodder</regex></oldfilter>
-        <oldfilter><regex>Name:Oobnopterbevny Biddilets</regex></oldfilter>
+        <oldfilter><regex>Name:Oobnopterbevny Biddilets:</regex></oldfilter>
         <oldfilter><regex>Name:Thrackin Griften</regex></oldfilter>
         <oldfilter><regex>Name:Frostbite</regex></oldfilter>
+        <oldfilter><regex>Name:The Swarm Mother</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

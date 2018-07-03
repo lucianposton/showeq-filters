@@ -5,15 +5,9 @@
     <section name="Hunt">
     </section>
     <section name="Caution">
-        <oldfilter><regex>Name:siren enticer</regex></oldfilter>
-        <oldfilter><regex>Name:siren priestess</regex></oldfilter>
-        <oldfilter><regex>Name:siren seductress</regex></oldfilter>
+        <oldfilter><regex>Name:icy servant</regex></oldfilter>
     </section>
     <section name="Danger">
-        <!--
-        <oldfilter><regex>Name:watery servant</regex></oldfilter>
-        <oldfilter><regex>Name:icy servant</regex></oldfilter>
-        -->
     </section>
     <section name="Locate">
     </section>
@@ -24,6 +18,7 @@
         <oldfilter><regex>Name:The Behemoth</regex></oldfilter>
         <oldfilter><regex>Name:Fellspine</regex></oldfilter>
         <oldfilter><regex>Name:Helsia Mindreaver</regex></oldfilter>
+        <oldfilter><regex>Name:Elna Kelpweaver</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

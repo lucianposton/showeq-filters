@@ -14,7 +14,7 @@
     <section name="Alert">
         <oldfilter><regex>Name:Dark Assassin</regex></oldfilter>
         <oldfilter><regex>Name:Karg IceBear</regex></oldfilter>
-        <oldfilter><regex>Name:Lich of Miragul</regex></oldfilter>
+        <oldfilter><regex>Name:Lich of Miragul:</regex></oldfilter>
         <oldfilter><regex>Name:Martar Icebear</regex></oldfilter>
         <oldfilter><regex>Name:glacier bear</regex></oldfilter>
         <oldfilter><regex>Name:tainted wooly mammoth</regex></oldfilter>

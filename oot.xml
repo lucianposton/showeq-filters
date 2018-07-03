@@ -9,6 +9,7 @@
     <section name="Danger">
     </section>
     <section name="Locate">
+        <oldfilter><regex>Name:Ancient Cyclops</regex></oldfilter>
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:Allizewsaur</regex></oldfilter>

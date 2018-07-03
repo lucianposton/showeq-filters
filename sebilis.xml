@@ -51,4 +51,7 @@
     </section>
     <section name="Filtered">
     </section>
+    <section name="PvP">
+        <oldfilter><regex>NPC:0:.*:IsGuildmate:0:</regex></oldfilter>
+    </section>
 </seqfilters>

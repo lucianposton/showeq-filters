@@ -15,9 +15,9 @@
         <oldfilter><regex>Name:Hadden</regex></oldfilter>
         <oldfilter><regex>Name:Pyzjin</regex></oldfilter>
         <oldfilter><regex>Name:Pyzjm</regex></oldfilter>
-        <oldfilter><regex>Name:Pyzjn</regex></oldfilter>
+        <oldfilter><regex>Name:Pyzjn:</regex></oldfilter>
         <oldfilter><regex>Name:Scruffy</regex></oldfilter>
-        <oldfilter><regex>Name:Tovax Vmar</regex></oldfilter>
+        <oldfilter><regex>Name:Tovax Vmar:</regex></oldfilter>
         <oldfilter><regex>Name:Varsoon the Undying</regex></oldfilter>
     </section>
     <section name="Filtered">

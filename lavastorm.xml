@@ -19,6 +19,7 @@
         <oldfilter><regex>Name:Nightmare</regex></oldfilter>
         <oldfilter><regex>Name:Sir Lindeal</regex></oldfilter>
         <oldfilter><regex>Name:Warbone Monk</regex></oldfilter>
+        <oldfilter><regex>Name:Warbone Spearman</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

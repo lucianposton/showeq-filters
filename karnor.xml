@@ -11,10 +11,11 @@
         <oldfilter><regex>Name:Venril Sathir</regex></oldfilter>
     </section>
     <section name="Locate">
+        <oldfilter><regex>Name:Skeletal Warlord</regex></oldfilter>
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:Venril Sathir</regex></oldfilter>
-        <oldfilter><regex>Name:Caller of Sathir</regex></oldfilter>
+        <oldfilter><regex>Name:Caller of Sathir:</regex></oldfilter>
         <oldfilter><regex>Name:Construct of Sathir</regex></oldfilter>
         <oldfilter><regex>Name:Drolvarg Captain</regex></oldfilter>
         <oldfilter><regex>Name:Drolvarg Pawbuster</regex></oldfilter>
@@ -23,6 +24,7 @@
         <oldfilter><regex>Name:Mrylokar</regex></oldfilter>
         <oldfilter><regex>Name:Sentry of Sathir</regex></oldfilter>
         <oldfilter><regex>Name:Skeletal Berzerker</regex></oldfilter>
+        <oldfilter><regex>Name:Skeletal Berserker</regex></oldfilter>
         <oldfilter><regex>Name:Skeletal Captain</regex></oldfilter>
         <oldfilter><regex>Name:Skeletal Caretaker</regex></oldfilter>
         <oldfilter><regex>Name:Skeletal Jailor</regex></oldfilter>
@@ -31,12 +33,9 @@
         <oldfilter><regex>Name:Skeletal Warlord</regex></oldfilter>
         <oldfilter><regex>Name:Turnkey</regex></oldfilter>
         <oldfilter><regex>Name:Undead Jailer</regex></oldfilter>
-        <oldfilter><regex>Name:Venril Sathir</regex></oldfilter>
         <oldfilter><regex>Name:Venril Sathirs remains</regex></oldfilter>
         <oldfilter><regex>Name:Verix Kyloxs remains</regex></oldfilter>
         <oldfilter><regex>Name:Wulfwere Bodyguard</regex></oldfilter>
-        <oldfilter><regex>Name:caller of Sathir</regex></oldfilter>
-        <oldfilter><regex>Name:undead jailer</regex></oldfilter>
         <oldfilter><regex>Name:Drolvarg warlord</regex></oldfilter>
         <oldfilter><regex>Name:human skeleton</regex></oldfilter>
     </section>

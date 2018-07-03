@@ -6,7 +6,7 @@
         <oldfilter><regex>Name:Ancient Guardian</regex></oldfilter>
     </section>
     <section name="Caution">
-        <oldfilter><regex>Name:Sarnak Aruspice</regex></oldfilter>
+        <oldfilter><regex>Race:Sarnak:Class:Wizard:</regex><level min="49" max="60"/></oldfilter>
     </section>
     <section name="Danger">
     </section>

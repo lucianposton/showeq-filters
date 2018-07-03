@@ -3,12 +3,14 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
+        <oldfilter><regex>Name:highland lion</regex></oldfilter>
     </section>
     <section name="Caution">
     </section>
     <section name="Danger">
     </section>
     <section name="Locate">
+        <oldfilter><regex>Name:The Swarm Mother</regex></oldfilter>
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:Ashenpaw</regex></oldfilter>
@@ -23,7 +25,7 @@
         <oldfilter><regex>Name:Lieutenant Midraim</regex></oldfilter>
         <oldfilter><regex>Name:Regis the Reverent</regex></oldfilter>
         <oldfilter><regex>Name:Swiftclaw</regex></oldfilter>
-        <oldfilter><regex>Name:The Swarm Mother</regex></oldfilter> <!-- didn't work? -->
+        <oldfilter><regex>Name:The Swarm Mother</regex></oldfilter>
         <oldfilter><regex>Name:Timber the Tiny</regex></oldfilter>
         <oldfilter><regex>Name:Xanuusus</regex></oldfilter>
         <oldfilter><regex>Name:Zahal the Vile</regex></oldfilter>

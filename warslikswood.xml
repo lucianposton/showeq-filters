@@ -10,6 +10,7 @@
     <section name="Danger">
     </section>
     <section name="Locate">
+        <oldfilter><regex>Name:Grachnist the Destroyer</regex></oldfilter>
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:Elerabeth</regex></oldfilter>

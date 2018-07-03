@@ -12,7 +12,7 @@
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:#a kobold missionary</regex></oldfilter>
-        <oldfilter><regex>Name:Meldrath The Malignant</regex></oldfilter>
+        <oldfilter><regex>Name:Meldrath The Malignant:</regex></oldfilter>
         <oldfilter><regex>Name:Minotaur Hero</regex></oldfilter>
         <oldfilter><regex>Name:Minotaur Lord</regex></oldfilter>
     </section>

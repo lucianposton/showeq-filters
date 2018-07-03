@@ -5,9 +5,9 @@
     <section name="Hunt">
     </section>
     <section name="Caution">
+        <oldfilter><regex>Name:Broon</regex></oldfilter>
     </section>
     <section name="Danger">
-        <oldfilter><regex>Name:Broon</regex></oldfilter>
         <oldfilter><regex>Name:Droon</regex></oldfilter>
         <oldfilter><regex>Name:Proon</regex></oldfilter>
         <oldfilter><regex>Name:Tarbul Earthstrider</regex></oldfilter>

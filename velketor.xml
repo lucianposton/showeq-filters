@@ -5,14 +5,17 @@
     <section name="Hunt">
     </section>
     <section name="Caution">
-        <oldfilter><regex>Name:invis trap ph</regex></oldfilter>
-        <oldfilter><regex>Name:large crystal shard</regex></oldfilter>
-        <oldfilter><regex>Name:crystal shard</regex></oldfilter>
+        <oldfilter><regex>Name:stalagtite</regex></oldfilter> <!-- tentacle -->
+        <oldfilter><regex>Name:Ice:</regex></oldfilter> <!-- tentacle -->
+        <oldfilter><regex>Name:Something seems</regex></oldfilter> <!-- spider -->
+        <oldfilter><regex>Name:From no where</regex></oldfilter>
+        <oldfilter><regex>Name:walls</regex></oldfilter>
+        <oldfilter><regex>Name:chill</regex></oldfilter>
+        <oldfilter><regex>Name:tentacle, a:</regex></oldfilter>
+        <oldfilter><regex>Name:shimmering orb</regex></oldfilter> <!-- dispell -->
+        <oldfilter><regex>Name:glimmering orb</regex></oldfilter> <!-- rain aoe -->
     </section>
     <section name="Danger">
-        <oldfilter><regex>Name:aedispellph</regex></oldfilter>
-        <oldfilter><regex>Name:aerainph</regex></oldfilter>
-        <oldfilter><regex>Name:Lord Doljonijiarnimorinar</regex></oldfilter>
     </section>
     <section name="Locate">
     </section>
@@ -27,7 +30,9 @@
         <oldfilter><regex>Name:Laryk Icepaw</regex></oldfilter>
         <oldfilter><regex>Name:Marlek Icepaw</regex></oldfilter>
         <oldfilter><regex>Name:Meljemor</regex></oldfilter>
+        <oldfilter><regex>Name:Leljemor</regex></oldfilter>
         <oldfilter><regex>Name:Rowwek Icepaw</regex></oldfilter>
+        <oldfilter><regex>Name:Errkak Icepaw</regex></oldfilter>
         <oldfilter><regex>Name:Tpos Icepaw</regex></oldfilter>
         <oldfilter><regex>Name:Ular Icepaw</regex></oldfilter>
         <oldfilter><regex>Name:Venar Icepaw</regex></oldfilter>
@@ -46,7 +51,6 @@
         <oldfilter><regex>Name:Frenzied Velium Stalker</regex></oldfilter>
         <oldfilter><regex>Name:Frenzied Velium Broodling</regex></oldfilter>
         <oldfilter><regex>Name:crystalline hunter</regex></oldfilter>
-        <oldfilter><regex>Name:Large Crystal Shard</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

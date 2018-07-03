@@ -3,9 +3,9 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
+        <oldfilter><regex>Name:Your</regex></oldfilter>
         <oldfilter><regex>Name:a snow griffin</regex></oldfilter>
         <oldfilter><regex>Name:an elder snow griffin</regex></oldfilter>
-        <oldfilter><regex>Name:Your</regex></oldfilter>
     </section>
     <section name="Caution">
     </section>
@@ -17,6 +17,8 @@
         <oldfilter><regex>Name:Ry`Gorr Elite</regex></oldfilter>
         <oldfilter><regex>Name:Ry`Gorr Oracle</regex></oldfilter>
         <oldfilter><regex>Name:a Ry`Gorr Avenger</regex></oldfilter>
+        <oldfilter><regex>Name:a snow griffin</regex></oldfilter>
+        <oldfilter><regex>Name:an elder snow griffin</regex></oldfilter>
     </section>
     <section name="Locate">
     </section>

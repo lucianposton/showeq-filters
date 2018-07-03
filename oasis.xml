@@ -8,7 +8,7 @@
     <section name="Caution">
     </section>
     <section name="Danger">
-        <oldfilter><regex>Race:Giant / Cyclops</regex></oldfilter>
+        <oldfilter><regex>Race:Giant/Cyclops</regex></oldfilter>
     </section>
     <section name="Locate">
     </section>

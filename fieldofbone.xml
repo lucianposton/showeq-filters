@@ -12,6 +12,7 @@
     <section name="Locate">
     </section>
     <section name="Alert">
+        <oldfilter><regex>Name:Iksar Dakoit</regex></oldfilter>
         <oldfilter><regex>Name:Burynaibane Spider</regex></oldfilter>
         <oldfilter><regex>Name:Carrion Queen</regex></oldfilter>
         <oldfilter><regex>Name:Gharg Oderbord</regex></oldfilter>

@@ -21,6 +21,7 @@
     <section name="Locate">
     </section>
     <section name="Alert">
+        <oldfilter><regex>Name:Bloated Belly</regex></oldfilter>
         <oldfilter><regex>Name:Impaler Tzilug</regex></oldfilter>
         <oldfilter><regex>Name:Modani Qu`Loni</regex></oldfilter>
     </section>

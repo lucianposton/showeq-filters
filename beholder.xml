@@ -9,7 +9,7 @@
     <section name="Caution">
     </section>
     <section name="Danger">
-        <oldfilter><regex>Name:evil eye</regex></oldfilter>
+        <oldfilter><regex>Name:evil eye, an:</regex></oldfilter>
     </section>
     <section name="Locate">
     </section>
@@ -26,7 +26,7 @@
         <oldfilter><regex>Name:Qlei</regex></oldfilter>
         <oldfilter><regex>Name:SpinFlint</regex></oldfilter>
         <oldfilter><regex>Name:Yymp the Infernal</regex></oldfilter>
-        <oldfilter><regex>Name:evil eye</regex></oldfilter>
+        <oldfilter><regex>Name:evil eye, an:</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>

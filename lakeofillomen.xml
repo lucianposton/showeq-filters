@@ -27,10 +27,9 @@
         <oldfilter><regex>Name:lead explorer</regex></oldfilter>
         <oldfilter><regex>Name:Advisor Sh`Orok</regex></oldfilter>
         <oldfilter><regex>Name:Bloodgill Marauder</regex></oldfilter>
-        <oldfilter><regex>Name:Chancellor Di'Zok</regex></oldfilter>
-        <oldfilter><regex>Name:Chancellor of Di`zok</regex></oldfilter>
+        <oldfilter><regex>Name:Chancellor of Di`zok:</regex></oldfilter>
         <oldfilter><regex>Name:Corrupted Barracuda</regex></oldfilter>
-        <oldfilter><regex>Name:Lord Gorelik</regex></oldfilter>
+        <oldfilter><regex>Name:Lord Gorelik:</regex></oldfilter>
         <oldfilter><regex>Name:sarnak courier</regex></oldfilter>
         <oldfilter><regex>Name:Tainted Barracuda</regex></oldfilter>
         <oldfilter><regex>Name:Sarnak crypt raider</regex></oldfilter>

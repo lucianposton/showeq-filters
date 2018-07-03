@@ -12,8 +12,8 @@
     </section>
     <section name="Alert">
         <oldfilter><regex>Name:#a spectral soldier</regex></oldfilter>
-        <oldfilter><regex>Name:Severilous</regex></oldfilter>
-        <oldfilter><regex>Name:Totem Fiendling</regex></oldfilter>
+        <oldfilter><regex>Name:Severilous:</regex></oldfilter>
+        <oldfilter><regex>Name:Totem Fiendling:</regex></oldfilter>
     </section>
     <section name="Filtered">
     </section>
